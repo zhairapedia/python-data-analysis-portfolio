@@ -1,0 +1,28 @@
+EXECUTIVE SUMMARY Retail Sales & Customer Insights – Data Analytics
+Capstone
+
+• This project analyzes seven related retail/e-commerce datasets:
+customers, products, orders, order items, payments, shipments, and
+returns. • The objective is to understand sales performance, customer
+purchasing behavior, product contribution, and operational activity. •
+The datasets are connected using customer ID, product ID, and order ID
+relationships. • Sales performance is evaluated using gross revenue, net
+revenue, fulfilled orders, and average order value (AOV). • Monthly
+revenue analysis is used to identify changes in sales over time. •
+Product, category, region, and city comparisons are used to identify key
+sales contributors. • Customer purchasing behavior is examined through
+new, repeat, and single-order customer classifications. • Payment
+methods and payment statuses are reviewed to understand transaction
+activity. • Estimated gross profit and discount patterns are examined to
+provide additional commercial context. • Shipment, cancellation, and
+return-request data are explored to review operational outcomes. • An
+interactive Streamlit dashboard provides filters for month, region,
+sales channel, and product category. • Jupyter Notebook outputs and
+exported charts document the calculations and support the business
+findings. • Final insights and recommendations should be based on
+verified notebook and dashboard results.
+
+FINAL RESULTS TO INSERT: - Total gross revenue: ₱5,402,891.30 - Total net revenue: ₱4,997,969.35 - Fulfilled orders:
+11,658 - Average order value: ₱428.72 -
+Leading product/category: Kid Joy generated ₱29,398 / Toys generated ₱750,760  
+- Leading region/city: Region III generated ₱950,979 - Repeat customer rate: 74.9%

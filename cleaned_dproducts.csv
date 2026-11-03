@@ -1,0 +1,801 @@
+﻿product_id,brand,category,product_code,product_name,unit_cost,unit_price,stock_qty,uom,launch_date
+PROD00001,Kid Joy,Beauty & Care,963,Kid Joy Beauty & Care 963,44.17,64.5,125,Piece,18/01/2022
+PROD00002,Home Ease,Home & Kitchen,368,Home Ease Home & Kitchen 368,37.18,70.39,131,Piece,25/11/2022
+PROD00003,Fresh Cart,Fashion,911,Fresh Cart Fashion 911,46.29,70.26,41,Piece,04/09/2023
+PROD00004,Nova Tech,Toys,753,Nova Tech Toys 753,43.66,62.46,149,Piece,12/08/2023
+PROD00005,Glow Co,Books,916,Glow Co Books 916,64.59,82.02,162,Bottle,12/05/2024
+PROD00006,Urban Wear,Toys,473,Urban Wear Toys 473,120.33,225.17,120,Bottle,15/02/2023
+PROD00007,Home Ease,Fashion,125,Home Ease Fashion 125,57.48,97.28,,Pack,26/08/2023
+PROD00008,Nova Tech,Fashion,325,Nova Tech Fashion 325,97.94,124.98,37,Bottle,07/07/2022
+PROD00009,Sun Peak,Groceries,617,Sun Peak Groceries 617,58.38,99.25,176,Piece,26/08/2023
+PROD00010,Urban Wear,Fashion,789,Urban Wear Fashion 789,22.76,40.85,17,Piece,19/05/2024
+PROD00011,Urban Wear,Groceries,787,Urban Wear Groceries 787,71.34,127.26,157,Piece,01/06/2022
+PROD00012,Book Nest,Electronics,536,Book Nest Electronics 536,45.86,68.12,186,Piece,03/06/2024
+PROD00013,Acme,Home & Kitchen,695,Acme Home & Kitchen 695,64.15,76.62,105,Piece,07/09/2024
+PROD00014,Fresh Cart,Sports & Outdoor,956,Fresh Cart Sports & Outdoor 956,24.87,35.87,68,Set,08/04/2023
+PROD00015,Glow Co,Fashion,176,Glow Co Fashion 176,44.95,59.97,160,Piece,24/03/2022
+PROD00016,Glow Co,Beauty & Care,695,Glow Co Beauty & Care 695,44.99,53.61,66,Piece,18/02/2023
+PROD00017,Fit Pro,Electronics,378,Fit Pro Electronics 378,60.05,109.58,117,Piece,17/10/2022
+PROD00018,Kid Joy,Toys,225,Kid Joy Toys 225,19.22,24.3,109,Piece,12/03/2024
+PROD00019,Fit Pro,Beauty & Care,168,Fit Pro Beauty & Care 168,62.83,73.91,172,Pack,06/02/2024
+PROD00020,Fresh Cart,Toys,187,Fresh Cart Toys 187,23.02,27.2,186,Pack,12/11/2022
+PROD00021,Fresh Cart,Electronics,722,Fresh Cart Electronics 722,47.22,88.58,126,Bottle,24/04/2024
+PROD00022,Kid Joy,Toys,220,Kid Joy Toys 220,37.93,54.41,170,Set,03/08/2022
+PROD00023,Urban Wear,Groceries,890,Urban Wear Groceries 890,39.86,49.92,202,Piece,10/05/2023
+PROD00024,Nova Tech,Electronics,485,Nova Tech Electronics 485,93.72,153.34,137,Pack,27/03/2022
+PROD00025,Acme,Beauty & Care,851,Acme Beauty & Care 851,58.84,98.01,179,Piece,17/10/2022
+PROD00026,Kid Joy,Toys,560,Kid Joy Toys 560,74.41,99.95,163,Piece,20/05/2023
+PROD00027,Fit Pro,Electronics,445,Fit Pro Electronics 445,71.98,127.4,105,Set,23/01/2022
+PROD00028,Home Ease,Fashion,857,Home Ease Fashion 857,63.05,86.9,177,Bottle,02/02/2023
+PROD00029,Acme,Home & Kitchen,197,Acme Home & Kitchen 197,114.07,153.71,161,Piece,26/03/2023
+PROD00030,Book Nest,Groceries,479,Book Nest Groceries 479,60.56,84.41,190,Pack,17/08/2024
+PROD00031,Nova Tech,Toys,685,Nova Tech Toys 685,66.86,104.83,224,Piece,03/01/2022
+PROD00032,Fit Pro,Books,568,Fit Pro Books 568,71.8,121.5,156,Piece,23/11/2022
+PROD00033,Kid Joy,Books,880,Kid Joy Books 880,40.94,54.23,101,Set,25/01/2023
+PROD00034,Nova Tech,Sports & Outdoor,936,Nova Tech Sports & Outdoor 936,26.15,33.38,153,Piece,03/06/2024
+PROD00035,Acme,Home & Kitchen,452,Acme Home & Kitchen 452,58.66,93.41,97,Piece,15/10/2023
+PROD00036,Kid Joy,Books,183,Kid Joy Books 183,105.78,145.14,156,Bottle,12/02/2022
+PROD00037,Acme,Sports & Outdoor,474,Acme Sports & Outdoor 474,76.56,106.97,117,Piece,19/01/2023
+PROD00038,Nova Tech,Groceries,794,Nova Tech Groceries 794,64.5,90.06,259,Piece,28/09/2023
+PROD00039,Nova Tech,Beauty & Care,869,Nova Tech Beauty & Care 869,48.17,63.49,63,Piece,12/01/2023
+PROD00040,Home Ease,Home & Kitchen,868,Home Ease Home & Kitchen 868,162.89,203.82,100,Piece,03/01/2024
+PROD00041,Glow Co,Beauty & Care,355,Glow Co Beauty & Care 355,71.28,89.76,133,Pack,23/01/2024
+PROD00042,Acme,Fashion,553,Acme Fashion 553,97.29,162.07,,Piece,03/10/2023
+PROD00043,Home Ease,Electronics,432,Home Ease Electronics 432,102.83,191.87,116,Pack,04/08/2024
+PROD00044,Acme,Fashion,480,Acme Fashion 480,65.88,83.94,159,Pack,23/01/2024
+PROD00045,Urban Wear,Electronics,232,Urban Wear Electronics 232,15.95,21.3,96,Pack,03/03/2022
+PROD00046,Acme,Electronics,362,Acme Electronics 362,16.84,22.67,134,Piece,16/01/2023
+PROD00047,Glow Co,Groceries,711,Glow Co Groceries 711,91.76,127.26,130,Piece,03/11/2022
+PROD00048,Kid Joy,Beauty & Care,271,Kid Joy Beauty & Care 271,33.47,43.86,133,Piece,19/05/2022
+PROD00049,Urban Wear,Books,187,Urban Wear Books 187,46.73,84.81,123,Bottle,01/02/2023
+PROD00050,Nova Tech,Beauty & Care,833,Nova Tech Beauty & Care 833,38.46,62.15,67,Piece,18/08/2022
+PROD00051,Kid Joy,Beauty & Care,603,Kid Joy Beauty & Care 603,39.17,47.52,5,Piece,23/11/2023
+PROD00052,Fresh Cart,Beauty & Care,986,Fresh Cart Beauty & Care 986,40.31,50.96,154,Piece,01/07/2022
+PROD00053,Glow Co,Groceries,697,Glow Co Groceries 697,21.87,29.44,169,Piece,22/03/2023
+PROD00054,Home Ease,Electronics,473,Home Ease Electronics 473,75.45,88.26,152,Piece,18/05/2022
+PROD00055,Fit Pro,Sports & Outdoor,604,Fit Pro Sports & Outdoor 604,52.47,99.26,90,Piece,26/11/2023
+PROD00056,Kid Joy,Toys,564,Kid Joy Toys 564,60.91,103.82,65,Set,14/07/2023
+PROD00057,Urban Wear,Electronics,810,Urban Wear Electronics 810,31.5,51.65,93,Set,19/01/2024
+PROD00058,Urban Wear,Sports & Outdoor,328,Urban Wear Sports & Outdoor 328,90.5,106.27,167,Pack,06/01/2024
+PROD00059,Book Nest,Beauty & Care,615,Book Nest Beauty & Care 615,46.19,72.24,92,Set,08/04/2024
+PROD00060,Fresh Cart,Beauty & Care,753,Fresh Cart Beauty & Care 753,82.71,154.17,98,Piece,30/07/2022
+PROD00061,Urban Wear,Groceries,328,Urban Wear Groceries 328,127.39,213.43,116,Piece,30/05/2022
+PROD00062,Glow Co,Fashion,131,Glow Co Fashion 131,35.61,65.24,163,Piece,11/06/2024
+PROD00063,Home Ease,Groceries,891,Home Ease Groceries 891,36.03,41.92,115,Piece,07/01/2022
+PROD00064,Home Ease,Fashion,918,Home Ease Fashion 918,48.83,90.72,113,Piece,21/02/2023
+PROD00065,Fit Pro,Electronics,406,Fit Pro Electronics 406,118.32,208.43,73,Piece,27/07/2022
+PROD00066,Sun Peak,Fashion,882,Sun Peak Fashion 882,52.64,77.69,80,Piece,14/07/2022
+PROD00067,Fit Pro,Electronics,641,Fit Pro Electronics 641,26.91,33.61,44,Piece,05/06/2024
+PROD00068,Acme,Toys,760,Acme Toys 760,51.22,65.67,168,Piece,06/05/2024
+PROD00069,Urban Wear,Home & Kitchen,764,Urban Wear Home & Kitchen 764,31.47,56.83,228,Piece,07/09/2022
+PROD00070,Fit Pro,Groceries,800,Fit Pro Groceries 800,107.15,191.37,69,Bottle,27/08/2022
+PROD00071,Sun Peak,Electronics,253,Sun Peak Electronics 253,29.25,52.41,,Piece,13/04/2023
+PROD00072,Kid Joy,Beauty & Care,507,Kid Joy Beauty & Care 507,60.04,98.77,165,Piece,14/01/2024
+PROD00073,Nova Tech,Groceries,179,Nova Tech Groceries 179,90.64,142.23,172,Set,11/06/2024
+PROD00074,Sun Peak,Groceries,986,Sun Peak Groceries 986,20.66,25.18,128,Bottle,24/03/2024
+PROD00075,Home Ease,Sports & Outdoor,155,Home Ease Sports & Outdoor 155,33.35,42.93,114,Pack,25/12/2022
+PROD00076,Acme,Toys,268,Acme Toys 268,44.34,56.27,137,Piece,21/05/2024
+PROD00077,Fresh Cart,Electronics,292,Fresh Cart Electronics 292,76.87,135.59,69,Piece,03/05/2023
+PROD00078,Fit Pro,Toys,792,Fit Pro Toys 792,62.47,87.88,,Piece,19/01/2023
+PROD00079,Acme,Books,748,Acme Books 748,91.7,129.15,59,Piece,29/06/2023
+PROD00080,Nova Tech,Fashion,949,Nova Tech Fashion 949,48.81,86.12,140,Piece,12/07/2024
+PROD00081,Glow Co,Sports & Outdoor,978,Glow Co Sports & Outdoor 978,67.98,101.63,2,Pack,19/10/2022
+PROD00082,Nova Tech,Beauty & Care,720,Nova Tech Beauty & Care 720,45.76,81.12,74,Piece,30/09/2023
+PROD00083,Home Ease,Groceries,542,Home Ease Groceries 542,33.7,44.94,115,Piece,21/07/2023
+PROD00084,Fit Pro,Groceries,742,Fit Pro Groceries 742,43.17,60.55,10,Piece,26/12/2023
+PROD00085,Book Nest,Home & Kitchen,663,Book Nest Home & Kitchen 663,43.37,60.83,34,Bottle,17/03/2023
+PROD00086,Home Ease,Books,368,Home Ease Books 368,46.09,70.29,128,Pack,20/12/2023
+PROD00087,Urban Wear,Books,372,Urban Wear Books 372,38.46,51.35,,Piece,27/10/2022
+PROD00088,Home Ease,Toys,155,Home Ease Toys 155,75.36,123.95,63,Piece,24/06/2022
+PROD00089,Glow Co,Toys,199,Glow Co Toys 199,26.77,35.52,51,Bottle,29/05/2022
+PROD00090,Book Nest,Home & Kitchen,591,Book Nest Home & Kitchen 591,74.36,109.18,322,Piece,03/04/2024
+PROD00091,Sun Peak,Home & Kitchen,587,Sun Peak Home & Kitchen 587,52.35,69.92,148,Piece,03/04/2024
+PROD00092,Sun Peak,Toys,947,Sun Peak Toys 947,104.4,187.23,124,Pack,20/04/2023
+PROD00093,Fresh Cart,Toys,770,Fresh Cart Toys 770,57.6,99.31,0,Set,22/03/2023
+PROD00094,Nova Tech,Toys,885,Nova Tech Toys 885,76.01,125.9,113,Piece,15/02/2024
+PROD00095,Home Ease,Electronics,482,Home Ease Electronics 482,41.14,48.27,144,Bottle,11/02/2024
+PROD00096,Nova Tech,Sports & Outdoor,426,Nova Tech Sports & Outdoor 426,126.07,197.81,127,Set,14/04/2024
+PROD00097,Home Ease,Sports & Outdoor,702,Home Ease Sports & Outdoor 702,115,154.32,149,Piece,24/04/2023
+PROD00098,Fit Pro,Books,290,Fit Pro Books 290,54.96,77.09,107,Bottle,09/04/2023
+PROD00099,Fit Pro,Sports & Outdoor,711,Fit Pro Sports & Outdoor 711,67.24,90.22,80,Pack,13/08/2024
+PROD00100,Sun Peak,Electronics,657,Sun Peak Electronics 657,135.4,217.11,160,Piece,01/11/2023
+PROD00101,Kid Joy,Toys,593,Kid Joy Toys 593,48.27,64.74,223,Piece,03/12/2022
+PROD00102,Kid Joy,Groceries,214,Kid Joy Groceries 214,44.71,74.31,44,Bottle,21/02/2022
+PROD00103,Home Ease,Electronics,640,Home Ease Electronics 640,32,46.54,37,Pack,28/07/2022
+PROD00104,Home Ease,Home & Kitchen,231,Home Ease Home & Kitchen 231,78.83,102.71,189,Piece,24/06/2023
+PROD00105,Book Nest,Home & Kitchen,382,Book Nest Home & Kitchen 382,48.95,67.62,43,Set,06/11/2022
+PROD00106,Acme,Beauty & Care,561,Acme Beauty & Care 561,51.96,94.63,92,Pack,02/12/2022
+PROD00107,Glow Co,Toys,957,Glow Co Toys 957,34.8,61.54,142,Set,31/08/2022
+PROD00108,Sun Peak,Electronics,149,Sun Peak Electronics 149,80.81,127.69,262,Piece,18/03/2023
+PROD00109,Fresh Cart,Sports & Outdoor,935,Fresh Cart Sports & Outdoor 935,102.86,169.14,70,Piece,14/10/2023
+PROD00110,Sun Peak,Toys,719,Sun Peak Toys 719,107.9,158.8,180,Bottle,28/03/2024
+PROD00111,Nova Tech,Books,161,Nova Tech Books 161,33.55,55.15,188,Piece,29/03/2023
+PROD00112,Kid Joy,Electronics,871,Kid Joy Electronics 871,60.92,85.94,28,Bottle,11/03/2022
+PROD00113,Acme,Books,209,Acme Books 209,35.02,63.45,66,Piece,01/01/2023
+PROD00114,Urban Wear,Electronics,598,Urban Wear Electronics 598,57.41,96.59,,Piece,12/05/2022
+PROD00115,Acme,Beauty & Care,585,Acme Beauty & Care 585,33.97,58.98,91,Piece,08/09/2022
+PROD00116,Nova Tech,Fashion,862,Nova Tech Fashion 862,75.75,111.78,227,Piece,10/03/2022
+PROD00117,Fresh Cart,Toys,371,Fresh Cart Toys 371,57.64,79.77,235,Piece,24/04/2023
+PROD00118,Glow Co,Beauty & Care,287,Glow Co Beauty & Care 287,80.47,145.94,49,Piece,06/08/2024
+PROD00119,Urban Wear,Books,217,Urban Wear Books 217,42.91,64.56,120,Piece,21/01/2022
+PROD00120,Fresh Cart,Books,446,Fresh Cart Books 446,120.14,174.62,45,Set,29/04/2024
+PROD00121,Sun Peak,Sports & Outdoor,536,Sun Peak Sports & Outdoor 536,20.38,30.99,140,Piece,08/02/2023
+PROD00122,Urban Wear,Beauty & Care,232,Urban Wear Beauty & Care 232,42.74,65.52,85,Piece,22/04/2022
+PROD00123,Acme,Books,559,Acme Books 559,104.9,184.18,76,Bottle,12/06/2024
+PROD00124,Nova Tech,Beauty & Care,892,Nova Tech Beauty & Care 892,63.11,83.58,48,Set,24/08/2023
+PROD00125,Book Nest,Fashion,424,Book Nest Fashion 424,49.4,91.81,126,Piece,27/05/2024
+PROD00126,Acme,Books,438,Acme Books 438,46.04,75.13,200,Pack,20/11/2023
+PROD00127,Acme,Home & Kitchen,249,Acme Home & Kitchen 249,53.28,82.91,114,Pack,10/10/2022
+PROD00128,Nova Tech,Home & Kitchen,380,Nova Tech Home & Kitchen 380,41.88,66.39,96,Piece,25/01/2022
+PROD00129,Home Ease,Beauty & Care,231,Home Ease Beauty & Care 231,37.7,67.4,122,Piece,08/09/2022
+PROD00130,Acme,Books,620,Acme Books 620,100.43,165.22,71,Piece,16/12/2022
+PROD00131,Urban Wear,Toys,585,Urban Wear Toys 585,21.76,34.76,217,Piece,10/05/2022
+PROD00132,Sun Peak,Sports & Outdoor,307,Sun Peak Sports & Outdoor 307,46.51,81.04,27,Set,07/01/2024
+PROD00133,Book Nest,Home & Kitchen,381,Book Nest Home & Kitchen 381,52.95,84.05,113,Pack,23/04/2023
+PROD00134,Fit Pro,Electronics,203,Fit Pro Electronics 203,42.37,60.38,86,Pack,29/12/2023
+PROD00135,Nova Tech,Toys,727,Nova Tech Toys 727,29.16,35.4,63,Piece,03/04/2024
+PROD00136,Glow Co,Groceries,689,Glow Co Groceries 689,55.82,100.59,11,Piece,15/07/2022
+PROD00137,Fresh Cart,Fashion,562,Fresh Cart Fashion 562,201.14,381.39,182,Bottle,14/05/2023
+PROD00138,Kid Joy,Toys,976,Kid Joy Toys 976,96.76,128.96,30,Pack,21/02/2024
+PROD00139,Book Nest,Electronics,119,Book Nest Electronics 119,64.26,116.76,170,Pack,06/05/2022
+PROD00140,Home Ease,Groceries,786,Home Ease Groceries 786,73.51,139.25,153,Piece,02/08/2022
+PROD00141,Home Ease,Sports & Outdoor,598,Home Ease Sports & Outdoor 598,66.4,123.54,65,Pack,26/02/2022
+PROD00142,Sun Peak,Fashion,834,Sun Peak Fashion 834,48.16,66.72,111,Set,27/02/2023
+PROD00143,Nova Tech,Home & Kitchen,224,Nova Tech Home & Kitchen 224,58.85,87.1,107,Piece,12/01/2022
+PROD00144,Urban Wear,Books,565,Urban Wear Books 565,34.96,45.41,163,Piece,10/05/2024
+PROD00145,Sun Peak,Books,590,Sun Peak Books 590,40.11,51.91,157,Piece,25/05/2024
+PROD00146,Urban Wear,Home & Kitchen,768,Urban Wear Home & Kitchen 768,27.48,49.74,57,Set,27/07/2022
+PROD00147,Acme,Books,958,Acme Books 958,36.43,61.32,85,Piece,04/12/2022
+PROD00148,Sun Peak,Books,482,Sun Peak Books 482,19.96,25.61,47,Set,23/02/2024
+PROD00149,Fresh Cart,Fashion,287,Fresh Cart Fashion 287,32.99,62.13,86,Piece,08/06/2023
+PROD00150,Fresh Cart,Books,614,Fresh Cart Books 614,47.85,65.57,170,Piece,24/04/2022
+PROD00151,Home Ease,Sports & Outdoor,975,Home Ease Sports & Outdoor 975,96.84,161.2,180,Piece,23/03/2024
+PROD00152,Nova Tech,Sports & Outdoor,827,Nova Tech Sports & Outdoor 827,85.83,107.39,52,Bottle,27/03/2023
+PROD00153,Fit Pro,Toys,681,Fit Pro Toys 681,52.66,63.95,162,Pack,22/10/2022
+PROD00154,Home Ease,Toys,989,Home Ease Toys 989,46.02,83.57,41,Piece,01/04/2024
+PROD00155,Kid Joy,Books,350,Kid Joy Books 350,19.71,36.43,162,Piece,11/04/2024
+PROD00156,Sun Peak,Electronics,710,Sun Peak Electronics 710,37.03,57.81,54,Piece,22/01/2023
+PROD00157,Kid Joy,Books,123,Kid Joy Books 123,59.31,71.01,114,Set,25/11/2023
+PROD00158,Kid Joy,Fashion,368,Kid Joy Fashion 368,51.09,66.15,234,Pack,31/07/2022
+PROD00159,Urban Wear,Books,229,Urban Wear Books 229,85.19,132.27,44,Set,24/02/2024
+PROD00160,Fresh Cart,Toys,266,Fresh Cart Toys 266,37.16,61.89,177,Piece,09/01/2023
+PROD00161,Fit Pro,Electronics,683,Fit Pro Electronics 683,22.95,35.97,6,Set,22/04/2022
+PROD00162,Sun Peak,Beauty & Care,436,Sun Peak Beauty & Care 436,45.42,59.4,127,Piece,26/03/2022
+PROD00163,Urban Wear,Books,433,Urban Wear Books 433,33.42,50.34,106,Set,04/12/2022
+PROD00164,Home Ease,Toys,104,Home Ease Toys 104,30.94,39.36,161,Piece,09/01/2023
+PROD00165,Urban Wear,Fashion,160,Urban Wear Fashion 160,36.73,49.18,88,Pack,03/07/2023
+PROD00166,Sun Peak,Fashion,951,Sun Peak Fashion 951,66.01,85.65,95,Piece,22/09/2024
+PROD00167,Fit Pro,Electronics,264,Fit Pro Electronics 264,53.3,79.74,,Piece,11/07/2022
+PROD00168,Sun Peak,Home & Kitchen,843,Sun Peak Home & Kitchen 843,26.5,34.13,81,Set,24/12/2022
+PROD00169,Kid Joy,Electronics,334,Kid Joy Electronics 334,77.92,98.5,24,Bottle,13/09/2022
+PROD00170,Sun Peak,Electronics,969,Sun Peak Electronics 969,51.17,62.69,90,Pack,26/03/2024
+PROD00171,Fresh Cart,Home & Kitchen,205,Fresh Cart Home & Kitchen 205,63.85,90.39,147,Piece,07/01/2024
+PROD00172,Kid Joy,Sports & Outdoor,566,Kid Joy Sports & Outdoor 566,83.13,97.49,,Piece,06/06/2023
+PROD00173,Home Ease,Sports & Outdoor,288,Home Ease Sports & Outdoor 288,122.71,224.17,143,Piece,23/07/2024
+PROD00174,Kid Joy,Home & Kitchen,325,Kid Joy Home & Kitchen 325,46,72.33,29,Bottle,05/12/2023
+PROD00175,Nova Tech,Toys,424,Nova Tech Toys 424,65.39,80.11,154,Bottle,13/04/2024
+PROD00176,Nova Tech,Books,515,Nova Tech Books 515,39.6,74.21,156,Set,06/02/2023
+PROD00177,Kid Joy,Toys,603,Kid Joy Toys 603,57.03,93.1,28,Piece,01/08/2023
+PROD00178,Sun Peak,Books,882,Sun Peak Books 882,111.33,193.62,180,Piece,11/02/2024
+PROD00179,Fit Pro,Fashion,682,Fit Pro Fashion 682,38.68,70.11,52,Piece,28/12/2022
+PROD00180,Glow Co,Groceries,809,Glow Co Groceries 809,64.6,121.41,98,Pack,24/12/2023
+PROD00181,Home Ease,Electronics,987,Home Ease Electronics 987,58.09,103.94,109,Pack,16/05/2024
+PROD00182,Acme,Fashion,382,Acme Fashion 382,69.99,129.28,237,Piece,15/09/2022
+PROD00183,Sun Peak,Home & Kitchen,110,Sun Peak Home & Kitchen 110,44.96,77,205,Bottle,06/08/2022
+PROD00184,Nova Tech,Toys,484,Nova Tech Toys 484,38.27,44.35,30,Piece,17/07/2023
+PROD00185,Home Ease,Fashion,605,Home Ease Fashion 605,20.56,24.53,131,Piece,13/02/2023
+PROD00186,Kid Joy,Groceries,482,Kid Joy Groceries 482,67.71,99.41,214,Pack,02/05/2024
+PROD00187,Home Ease,Home & Kitchen,884,Home Ease Home & Kitchen 884,41.24,50.99,66,Piece,13/10/2023
+PROD00188,Home Ease,Fashion,822,Home Ease Fashion 822,75.82,130.35,99,Piece,05/09/2023
+PROD00189,Kid Joy,Books,607,Kid Joy Books 607,79.9,127.22,65,Piece,28/05/2023
+PROD00190,Glow Co,Toys,161,Glow Co Toys 161,114.98,159.74,32,Piece,18/02/2023
+PROD00191,Sun Peak,Toys,525,Sun Peak Toys 525,63.69,78.47,28,Set,19/06/2024
+PROD00192,Fresh Cart,Home & Kitchen,468,Fresh Cart Home & Kitchen 468,51.95,75.26,104,Piece,14/01/2023
+PROD00193,Nova Tech,Toys,971,Nova Tech Toys 971,55.12,103.43,112,Set,12/01/2022
+PROD00194,Fresh Cart,Home & Kitchen,743,Fresh Cart Home & Kitchen 743,56.45,69.64,135,Piece,30/08/2023
+PROD00195,Book Nest,Beauty & Care,849,Book Nest Beauty & Care 849,48.96,62.65,203,Piece,25/06/2024
+PROD00196,Acme,Fashion,487,Acme Fashion 487,83.35,131.24,69,Piece,14/04/2022
+PROD00197,Kid Joy,Beauty & Care,183,Kid Joy Beauty & Care 183,86.68,104.78,61,Pack,30/04/2023
+PROD00198,Nova Tech,Sports & Outdoor,590,Nova Tech Sports & Outdoor 590,64.46,101.99,152,Piece,29/07/2022
+PROD00199,Home Ease,Toys,246,Home Ease Toys 246,22.02,36.53,165,Piece,07/01/2024
+PROD00200,Kid Joy,Electronics,910,Kid Joy Electronics 910,181.22,342.97,169,Pack,13/07/2022
+PROD00201,Acme,Books,933,Acme Books 933,25.51,39.99,63,Piece,27/02/2022
+PROD00202,Nova Tech,Books,277,Nova Tech Books 277,50.71,96.32,138,Set,27/11/2022
+PROD00203,Glow Co,Fashion,554,Glow Co Fashion 554,62.61,73.02,173,Pack,05/05/2022
+PROD00204,Fit Pro,Electronics,232,Fit Pro Electronics 232,58.56,77.46,151,Bottle,08/07/2024
+PROD00205,Acme,Books,620,Acme Books 620,41.09,59.92,124,Piece,01/04/2022
+PROD00206,Nova Tech,Home & Kitchen,542,Nova Tech Home & Kitchen 542,42.17,53.08,76,Pack,09/01/2024
+PROD00207,Kid Joy,Electronics,356,Kid Joy Electronics 356,58.79,78.58,35,Piece,18/05/2022
+PROD00208,Glow Co,Fashion,535,Glow Co Fashion 535,109.98,188.5,160,Piece,30/07/2024
+PROD00209,Glow Co,Fashion,951,Glow Co Fashion 951,60.5,111.07,,Pack,03/04/2023
+PROD00210,Fresh Cart,Fashion,684,Fresh Cart Fashion 684,101.16,142.42,89,Piece,25/01/2023
+PROD00211,Urban Wear,Groceries,826,Urban Wear Groceries 826,108.33,169.77,140,Pack,22/08/2024
+PROD00212,Sun Peak,Fashion,912,Sun Peak Fashion 912,86.27,137.74,135,Bottle,20/11/2023
+PROD00213,Acme,Sports & Outdoor,547,Acme Sports & Outdoor 547,24.09,35.26,65,Set,24/12/2023
+PROD00214,Fresh Cart,Electronics,129,Fresh Cart Electronics 129,115.96,154.7,160,Pack,19/09/2024
+PROD00215,Nova Tech,Toys,605,Nova Tech Toys 605,95.4,135.17,116,Pack,13/07/2024
+PROD00216,Kid Joy,Electronics,445,Kid Joy Electronics 445,31.39,45.32,208,Piece,31/03/2024
+PROD00217,Book Nest,Home & Kitchen,227,Book Nest Home & Kitchen 227,64.29,83.73,135,Bottle,23/02/2024
+PROD00218,Sun Peak,Home & Kitchen,554,Sun Peak Home & Kitchen 554,43.13,76.65,126,Set,04/06/2022
+PROD00219,Acme,Groceries,121,Acme Groceries 121,61.58,106.11,129,Piece,02/04/2022
+PROD00220,Fresh Cart,Fashion,753,Fresh Cart Fashion 753,41.42,63.64,185,Set,19/01/2022
+PROD00221,Glow Co,Home & Kitchen,522,Glow Co Home & Kitchen 522,70.69,112.08,187,Piece,24/01/2022
+PROD00222,Glow Co,Toys,215,Glow Co Toys 215,33.52,63.15,106,Piece,23/07/2022
+PROD00223,Fit Pro,Beauty & Care,534,Fit Pro Beauty & Care 534,44.81,75.76,83,Piece,11/08/2023
+PROD00224,Glow Co,Fashion,821,Glow Co Fashion 821,60.89,73.9,63,Piece,20/10/2022
+PROD00225,Nova Tech,Groceries,918,Nova Tech Groceries 918,61.87,106.33,98,Bottle,17/04/2024
+PROD00226,Book Nest,Fashion,977,Book Nest Fashion 977,41.09,70.67,71,Piece,07/10/2023
+PROD00227,Sun Peak,Sports & Outdoor,668,Sun Peak Sports & Outdoor 668,39.33,46.71,88,Piece,28/02/2023
+PROD00228,Home Ease,Toys,134,Home Ease Toys 134,80.64,97.48,0,Bottle,08/07/2023
+PROD00229,Acme,Beauty & Care,364,Acme Beauty & Care 364,36.8,58.72,0,Set,14/03/2022
+PROD00230,Acme,Home & Kitchen,885,Acme Home & Kitchen 885,44.29,64.78,139,Piece,26/11/2023
+PROD00231,Urban Wear,Beauty & Care,969,Urban Wear Beauty & Care 969,48.34,56.21,153,Bottle,20/01/2022
+PROD00232,Glow Co,Beauty & Care,474,Glow Co Beauty & Care 474,58.93,89.07,89,Pack,28/01/2022
+PROD00233,Sun Peak,Groceries,416,Sun Peak Groceries 416,40.98,75.24,174,Bottle,23/02/2023
+PROD00234,Sun Peak,Electronics,927,Sun Peak Electronics 927,53.53,70,168,Piece,17/09/2023
+PROD00235,Fit Pro,Groceries,303,Fit Pro Groceries 303,94.39,158.86,34,Piece,20/12/2022
+PROD00236,Glow Co,Home & Kitchen,951,Glow Co Home & Kitchen 951,39.88,60.63,110,Pack,19/11/2022
+PROD00237,Fresh Cart,Electronics,990,Fresh Cart Electronics 990,69.22,126.61,164,Bottle,07/03/2024
+PROD00238,Book Nest,Electronics,340,Book Nest Electronics 340,58.11,101.36,,Bottle,02/04/2023
+PROD00239,Nova Tech,Beauty & Care,284,Nova Tech Beauty & Care 284,57.56,90.83,185,Piece,21/04/2023
+PROD00240,Nova Tech,Sports & Outdoor,300,Nova Tech Sports & Outdoor 300,65.24,96.3,239,Bottle,05/09/2023
+PROD00241,Sun Peak,Home & Kitchen,679,Sun Peak Home & Kitchen 679,87.87,135.29,115,Piece,13/08/2024
+PROD00242,Kid Joy,Home & Kitchen,195,Kid Joy Home & Kitchen 195,44.92,75.47,161,Piece,29/10/2023
+PROD00243,Book Nest,Home & Kitchen,812,Book Nest Home & Kitchen 812,22.13,31.69,182,Piece,13/06/2022
+PROD00244,Sun Peak,Books,950,Sun Peak Books 950,101.78,141.07,77,Pack,10/01/2023
+PROD00245,Book Nest,Home & Kitchen,953,Book Nest Home & Kitchen 953,44.64,78.24,31,Pack,19/03/2022
+PROD00246,Urban Wear,Fashion,780,Urban Wear Fashion 780,91.52,109.44,173,Set,05/08/2023
+PROD00247,Sun Peak,Home & Kitchen,819,Sun Peak Home & Kitchen 819,54.86,94.57,227,Piece,05/09/2022
+PROD00248,Home Ease,Beauty & Care,290,Home Ease Beauty & Care 290,58.89,106.09,80,Piece,01/09/2023
+PROD00249,Fresh Cart,Toys,136,Fresh Cart Toys 136,49.16,58.45,185,Piece,04/07/2022
+PROD00250,Urban Wear,Electronics,548,Urban Wear Electronics 548,18.03,29.81,39,Set,22/09/2024
+PROD00251,Fit Pro,Sports & Outdoor,540,Fit Pro Sports & Outdoor 540,93.98,130.86,74,Pack,05/02/2023
+PROD00252,Kid Joy,Toys,603,Kid Joy Toys 603,75.34,100.62,115,Piece,27/05/2024
+PROD00253,Glow Co,Beauty & Care,469,Glow Co Beauty & Care 469,37.03,52.61,,Piece,24/09/2022
+PROD00254,Urban Wear,Beauty & Care,303,Urban Wear Beauty & Care 303,55.92,91.36,200,Set,28/11/2023
+PROD00255,Book Nest,Books,251,Book Nest Books 251,30.19,54.59,39,Piece,20/07/2022
+PROD00256,Glow Co,Home & Kitchen,263,Glow Co Home & Kitchen 263,95.24,119.03,99,Bottle,15/04/2023
+PROD00257,Home Ease,Books,195,Home Ease Books 195,77.62,113.1,83,Set,24/06/2023
+PROD00258,Acme,Groceries,739,Acme Groceries 739,48.91,90.28,166,Piece,08/02/2022
+PROD00259,Urban Wear,Toys,852,Urban Wear Toys 852,24.45,36.41,133,Piece,29/08/2023
+PROD00260,Fit Pro,Beauty & Care,338,Fit Pro Beauty & Care 338,67.64,100.99,182,Pack,13/06/2024
+PROD00261,Fresh Cart,Beauty & Care,243,Fresh Cart Beauty & Care 243,94.04,144.3,99,Piece,16/05/2024
+PROD00262,Fresh Cart,Books,163,Fresh Cart Books 163,19.99,31.84,202,Piece,12/10/2023
+PROD00263,Home Ease,Books,717,Home Ease Books 717,31.38,54.43,96,Piece,18/10/2022
+PROD00264,Urban Wear,Electronics,547,Urban Wear Electronics 547,51.5,87.34,47,Set,11/01/2024
+PROD00265,Sun Peak,Books,646,Sun Peak Books 646,28.28,46.17,58,Piece,10/01/2023
+PROD00266,Glow Co,Sports & Outdoor,454,Glow Co Sports & Outdoor 454,50.12,79.03,137,Piece,18/11/2022
+PROD00267,Urban Wear,Beauty & Care,990,Urban Wear Beauty & Care 990,58.99,105.43,162,Pack,20/05/2022
+PROD00268,Book Nest,Books,853,Book Nest Books 853,59.77,70.82,52,Pack,23/02/2023
+PROD00269,Home Ease,Beauty & Care,907,Home Ease Beauty & Care 907,34.03,50.87,0,Piece,19/06/2024
+PROD00270,Nova Tech,Beauty & Care,620,Nova Tech Beauty & Care 620,40.05,74.7,99,Bottle,07/05/2022
+PROD00271,Sun Peak,Sports & Outdoor,730,Sun Peak Sports & Outdoor 730,40.49,50.42,122,Piece,25/11/2023
+PROD00272,Urban Wear,Books,107,Urban Wear Books 107,52.68,87.14,165,Set,20/01/2023
+PROD00273,Kid Joy,Toys,485,Kid Joy Toys 485,135,235.02,209,Piece,02/03/2024
+PROD00274,Fit Pro,Groceries,578,Fit Pro Groceries 578,35.65,58.95,1,Set,04/09/2022
+PROD00275,Nova Tech,Fashion,102,Nova Tech Fashion 102,101.94,159.62,122,Piece,01/09/2024
+PROD00276,Book Nest,Groceries,131,Book Nest Groceries 131,49.01,56.84,76,Set,18/06/2023
+PROD00277,Nova Tech,Electronics,822,Nova Tech Electronics 822,27.71,34.81,235,Pack,03/10/2023
+PROD00278,Nova Tech,Toys,320,Nova Tech Toys 320,38.02,62.68,137,Bottle,11/10/2022
+PROD00279,Acme,Sports & Outdoor,901,Acme Sports & Outdoor 901,61.42,102.68,103,Piece,07/03/2023
+PROD00280,Sun Peak,Sports & Outdoor,321,Sun Peak Sports & Outdoor 321,119.74,150.91,0,Piece,06/03/2024
+PROD00281,Home Ease,Books,900,Home Ease Books 900,46.05,69.32,121,Set,09/07/2022
+PROD00282,Glow Co,Beauty & Care,264,Glow Co Beauty & Care 264,61.54,85.29,164,Pack,07/12/2022
+PROD00283,Sun Peak,Toys,255,Sun Peak Toys 255,59.06,72.97,200,Piece,15/09/2022
+PROD00284,Book Nest,Fashion,733,Book Nest Fashion 733,49.37,84.87,106,Bottle,29/07/2022
+PROD00285,Home Ease,Fashion,235,Home Ease Fashion 235,38.99,70.18,176,Piece,29/05/2024
+PROD00286,Glow Co,Fashion,799,Glow Co Fashion 799,66.61,87.15,109,Pack,10/06/2024
+PROD00287,Home Ease,Electronics,198,Home Ease Electronics 198,64.32,107.28,83,Set,26/03/2024
+PROD00288,Fresh Cart,Fashion,125,Fresh Cart Fashion 125,59.74,92.39,159,Piece,27/04/2024
+PROD00289,Home Ease,Toys,626,Home Ease Toys 626,35.42,46.5,102,Set,09/11/2023
+PROD00290,Fresh Cart,Fashion,927,Fresh Cart Fashion 927,35.87,63.69,156,Piece,21/03/2024
+PROD00291,Glow Co,Books,574,Glow Co Books 574,74.2,136.91,51,Piece,11/06/2023
+PROD00292,Fit Pro,Groceries,421,Fit Pro Groceries 421,92.32,167.66,167,Piece,05/01/2023
+PROD00293,Fresh Cart,Beauty & Care,694,Fresh Cart Beauty & Care 694,19.78,29.9,171,Piece,06/06/2024
+PROD00294,Acme,Home & Kitchen,526,Acme Home & Kitchen 526,65.34,119.08,127,Piece,14/09/2023
+PROD00295,Fresh Cart,Beauty & Care,450,Fresh Cart Beauty & Care 450,20.57,23.71,105,Piece,21/10/2023
+PROD00296,Kid Joy,Sports & Outdoor,137,Kid Joy Sports & Outdoor 137,64.62,78.7,96,Piece,23/08/2023
+PROD00297,Fit Pro,Electronics,261,Fit Pro Electronics 261,34.19,56.61,113,Pack,04/08/2022
+PROD00298,Book Nest,Groceries,969,Book Nest Groceries 969,51.02,84.94,109,Piece,06/01/2022
+PROD00299,Nova Tech,Home & Kitchen,726,Nova Tech Home & Kitchen 726,40.1,54.59,17,Piece,18/05/2024
+PROD00300,Fresh Cart,Home & Kitchen,810,Fresh Cart Home & Kitchen 810,18.11,30,156,Pack,13/09/2023
+PROD00301,Nova Tech,Groceries,603,Nova Tech Groceries 603,110.76,175.87,201,Piece,17/08/2023
+PROD00302,Kid Joy,Groceries,661,Kid Joy Groceries 661,107.15,138.26,91,Bottle,10/03/2023
+PROD00303,Fresh Cart,Beauty & Care,464,Fresh Cart Beauty & Care 464,121.75,141.13,141,Piece,17/02/2024
+PROD00304,Acme,Books,292,Acme Books 292,43.33,73.81,96,Set,25/12/2023
+PROD00305,Home Ease,Electronics,312,Home Ease Electronics 312,24.99,30.07,188,Pack,17/04/2023
+PROD00306,Fit Pro,Books,174,Fit Pro Books 174,33.4,58.87,85,Pack,07/12/2022
+PROD00307,Book Nest,Books,529,Book Nest Books 529,34.8,52.16,96,Bottle,31/08/2023
+PROD00308,Fresh Cart,Beauty & Care,248,Fresh Cart Beauty & Care 248,43.42,59.57,138,Piece,09/10/2023
+PROD00309,Acme,Fashion,775,Acme Fashion 775,56.15,79.96,207,Pack,23/01/2024
+PROD00310,Home Ease,Books,694,Home Ease Books 694,43.48,51.6,77,Pack,19/03/2022
+PROD00311,Book Nest,Toys,490,Book Nest Toys 490,25.1,28.92,120,Piece,26/09/2024
+PROD00312,Home Ease,Toys,292,Home Ease Toys 292,56.53,105.15,221,Set,31/03/2024
+PROD00313,Nova Tech,Beauty & Care,662,Nova Tech Beauty & Care 662,54.89,86.36,67,Piece,04/06/2022
+PROD00314,Fresh Cart,Electronics,654,Fresh Cart Electronics 654,52.4,79.19,159,Bottle,13/02/2022
+PROD00315,Home Ease,Electronics,998,Home Ease Electronics 998,47.44,59.6,99,Piece,12/03/2023
+PROD00316,Sun Peak,Sports & Outdoor,855,Sun Peak Sports & Outdoor 855,56.54,74.26,95,Piece,20/08/2022
+PROD00317,Kid Joy,Beauty & Care,543,Kid Joy Beauty & Care 543,88.39,160.28,157,Piece,07/03/2024
+PROD00318,Sun Peak,Groceries,527,Sun Peak Groceries 527,43.96,61.87,178,Piece,18/12/2023
+PROD00319,Glow Co,Books,934,Glow Co Books 934,23.14,42.88,186,Piece,19/01/2024
+PROD00320,Sun Peak,Home & Kitchen,170,Sun Peak Home & Kitchen 170,44.8,56.68,169,Piece,08/11/2023
+PROD00321,Fit Pro,Electronics,665,Fit Pro Electronics 665,52.65,81.32,172,Pack,24/08/2023
+PROD00322,Glow Co,Beauty & Care,908,Glow Co Beauty & Care 908,66.29,123.75,108,Pack,04/08/2023
+PROD00323,Glow Co,Beauty & Care,169,Glow Co Beauty & Care 169,27.96,35.32,42,Pack,23/01/2024
+PROD00324,Glow Co,Sports & Outdoor,944,Glow Co Sports & Outdoor 944,53.87,78.38,195,Piece,11/04/2023
+PROD00325,Fresh Cart,Toys,571,Fresh Cart Toys 571,34.01,43.01,42,Piece,16/09/2022
+PROD00326,Kid Joy,Home & Kitchen,174,Kid Joy Home & Kitchen 174,82.44,124.51,189,Piece,06/11/2023
+PROD00327,Kid Joy,Fashion,105,Kid Joy Fashion 105,101.96,176.06,44,Piece,06/01/2022
+PROD00328,Sun Peak,Beauty & Care,728,Sun Peak Beauty & Care 728,70.32,131.85,178,Set,05/07/2023
+PROD00329,Book Nest,Beauty & Care,302,Book Nest Beauty & Care 302,45.99,69.44,126,Piece,27/01/2024
+PROD00330,Fresh Cart,Books,817,Fresh Cart Books 817,38.98,67.47,0,Piece,03/01/2022
+PROD00331,Book Nest,Books,782,Book Nest Books 782,29.28,39.1,119,Piece,23/04/2023
+PROD00332,Home Ease,Groceries,309,Home Ease Groceries 309,36.01,61.86,67,Piece,23/12/2022
+PROD00333,Home Ease,Groceries,562,Home Ease Groceries 562,22.23,33.53,165,Piece,01/06/2023
+PROD00334,Fit Pro,Fashion,465,Fit Pro Fashion 465,43.51,59.8,214,Bottle,16/08/2023
+PROD00335,Fresh Cart,Home & Kitchen,882,Fresh Cart Home & Kitchen 882,42.45,79.53,141,Set,04/05/2024
+PROD00336,Glow Co,Electronics,267,Glow Co Electronics 267,37.46,51.29,52,Piece,05/11/2022
+PROD00337,Book Nest,Beauty & Care,240,Book Nest Beauty & Care 240,56.94,95.84,64,Piece,01/02/2024
+PROD00338,Glow Co,Sports & Outdoor,856,Glow Co Sports & Outdoor 856,28.54,50.51,43,Bottle,21/02/2024
+PROD00339,Home Ease,Electronics,131,Home Ease Electronics 131,90.39,157.63,94,Piece,14/04/2022
+PROD00340,Book Nest,Electronics,256,Book Nest Electronics 256,32.05,60.25,62,Piece,13/03/2024
+PROD00341,Glow Co,Fashion,384,Glow Co Fashion 384,74.02,115.87,89,Piece,04/02/2024
+PROD00342,Fresh Cart,Toys,651,Fresh Cart Toys 651,23.86,28.7,77,Piece,22/09/2023
+PROD00343,Nova Tech,Books,986,Nova Tech Books 986,51.23,61.2,134,Piece,25/03/2024
+PROD00344,Home Ease,Fashion,153,Home Ease Fashion 153,92.6,166.83,231,Pack,26/08/2022
+PROD00345,Home Ease,Beauty & Care,955,Home Ease Beauty & Care 955,57.92,77.91,76,Pack,10/07/2023
+PROD00346,Nova Tech,Home & Kitchen,630,Nova Tech Home & Kitchen 630,58.26,98.4,128,Piece,26/09/2023
+PROD00347,Acme,Sports & Outdoor,186,Acme Sports & Outdoor 186,66.09,98.76,144,Pack,06/12/2022
+PROD00348,Fit Pro,Beauty & Care,495,Fit Pro Beauty & Care 495,50.13,69.49,129,Bottle,15/01/2022
+PROD00349,Sun Peak,Electronics,328,Sun Peak Electronics 328,63.21,99.87,118,Bottle,12/09/2023
+PROD00350,Acme,Toys,414,Acme Toys 414,42.14,61.41,133,Piece,25/06/2022
+PROD00351,Home Ease,Electronics,625,Home Ease Electronics 625,59.16,102.88,80,Bottle,21/01/2022
+PROD00352,Home Ease,Books,490,Home Ease Books 490,45.21,69.21,161,Piece,31/12/2023
+PROD00353,Home Ease,Toys,566,Home Ease Toys 566,44.72,77.96,127,Piece,27/07/2022
+PROD00354,Nova Tech,Books,771,Nova Tech Books 771,62.02,117.35,180,Piece,26/07/2023
+PROD00355,Urban Wear,Sports & Outdoor,980,Urban Wear Sports & Outdoor 980,55.3,104.93,154,Set,30/05/2023
+PROD00356,Book Nest,Electronics,754,Book Nest Electronics 754,80.45,123.8,100,Piece,10/07/2023
+PROD00357,Fit Pro,Home & Kitchen,146,Fit Pro Home & Kitchen 146,98.73,187.33,127,Piece,05/04/2024
+PROD00358,Sun Peak,Sports & Outdoor,544,Sun Peak Sports & Outdoor 544,97.05,130.84,216,Piece,22/08/2023
+PROD00359,Nova Tech,Groceries,206,Nova Tech Groceries 206,43.99,67.47,97,Bottle,18/05/2022
+PROD00360,Glow Co,Groceries,586,Glow Co Groceries 586,77.74,115.62,88,Piece,01/08/2024
+PROD00361,Urban Wear,Electronics,877,Urban Wear Electronics 877,94.8,112.74,96,Set,06/02/2022
+PROD00362,Home Ease,Groceries,527,Home Ease Groceries 527,24.93,42.46,140,Piece,11/06/2023
+PROD00363,Fresh Cart,Home & Kitchen,376,Fresh Cart Home & Kitchen 376,106.89,192.58,105,Bottle,27/03/2024
+PROD00364,Book Nest,Groceries,575,Book Nest Groceries 575,34.34,45.18,2,Piece,22/05/2024
+PROD00365,Home Ease,Electronics,303,Home Ease Electronics 303,34.01,41.53,57,Piece,17/12/2022
+PROD00366,Nova Tech,Toys,472,Nova Tech Toys 472,39.1,59.79,181,Piece,28/12/2023
+PROD00367,Nova Tech,Books,667,Nova Tech Books 667,77.07,117.13,158,Pack,17/09/2023
+PROD00368,Sun Peak,Groceries,467,Sun Peak Groceries 467,44.75,52.4,106,Piece,26/01/2022
+PROD00369,Home Ease,Electronics,920,Home Ease Electronics 920,118.75,178.58,163,Set,02/07/2024
+PROD00370,Acme,Books,749,Acme Books 749,39.61,52.19,181,Set,02/08/2023
+PROD00371,Kid Joy,Toys,894,Kid Joy Toys 894,67.51,91.77,185,Pack,01/09/2024
+PROD00372,Fresh Cart,Sports & Outdoor,992,Fresh Cart Sports & Outdoor 992,100.15,171.37,196,Piece,21/03/2022
+PROD00373,Fresh Cart,Toys,444,Fresh Cart Toys 444,54.59,66.18,91,Bottle,21/10/2022
+PROD00374,Nova Tech,Toys,474,Nova Tech Toys 474,139,258.22,230,Piece,11/06/2022
+PROD00375,Nova Tech,Toys,294,Nova Tech Toys 294,33.92,49.68,0,Piece,11/02/2023
+PROD00376,Kid Joy,Beauty & Care,728,Kid Joy Beauty & Care 728,124.37,208.44,16,Piece,29/10/2022
+PROD00377,Fresh Cart,Groceries,831,Fresh Cart Groceries 831,40.65,56.11,118,Piece,04/07/2022
+PROD00378,Kid Joy,Sports & Outdoor,538,Kid Joy Sports & Outdoor 538,75.89,141.53,83,Bottle,09/10/2022
+PROD00379,Kid Joy,Books,999,Kid Joy Books 999,53.07,76.91,242,Piece,25/08/2024
+PROD00380,Fresh Cart,Electronics,277,Fresh Cart Electronics 277,77.11,131.16,159,Pack,19/08/2023
+PROD00381,Kid Joy,Books,119,Kid Joy Books 119,21.8,36.72,158,Pack,04/01/2023
+PROD00382,Acme,Sports & Outdoor,202,Acme Sports & Outdoor 202,95.01,131.56,138,Bottle,29/01/2023
+PROD00383,Glow Co,Fashion,513,Glow Co Fashion 513,89.69,151.75,117,Piece,16/09/2023
+PROD00384,Kid Joy,Toys,913,Kid Joy Toys 913,26.17,30.56,114,Bottle,09/07/2024
+PROD00385,Glow Co,Beauty & Care,147,Glow Co Beauty & Care 147,27.57,47.54,258,Piece,26/09/2023
+PROD00386,Home Ease,Beauty & Care,255,Home Ease Beauty & Care 255,63.69,81.46,150,Bottle,25/01/2024
+PROD00387,Fresh Cart,Electronics,367,Fresh Cart Electronics 367,24.46,44.38,154,Piece,29/07/2022
+PROD00388,Home Ease,Home & Kitchen,684,Home Ease Home & Kitchen 684,22.21,38.91,0,Piece,13/06/2024
+PROD00389,Kid Joy,Electronics,413,Kid Joy Electronics 413,40.46,51.45,104,Piece,29/03/2022
+PROD00390,Home Ease,Home & Kitchen,769,Home Ease Home & Kitchen 769,54.79,99.16,123,Piece,18/10/2022
+PROD00391,Sun Peak,Books,666,Sun Peak Books 666,49.03,85.34,101,Piece,15/10/2022
+PROD00392,Fit Pro,Fashion,115,Fit Pro Fashion 115,108.95,146.2,107,Piece,01/04/2023
+PROD00393,Glow Co,Fashion,913,Glow Co Fashion 913,55.77,102.67,175,Piece,29/07/2022
+PROD00394,Home Ease,Electronics,508,Home Ease Electronics 508,30.36,39.1,130,Piece,07/07/2024
+PROD00395,Book Nest,Home & Kitchen,414,Book Nest Home & Kitchen 414,25.7,42.05,181,Set,08/11/2022
+PROD00396,Home Ease,Books,258,Home Ease Books 258,47.89,85.54,102,Piece,04/10/2023
+PROD00397,Nova Tech,Home & Kitchen,161,Nova Tech Home & Kitchen 161,73.67,114.64,151,Piece,29/04/2024
+PROD00398,Acme,Books,377,Acme Books 377,49.25,66.38,119,Set,06/07/2023
+PROD00399,Glow Co,Groceries,304,Glow Co Groceries 304,69.27,120.47,124,Set,01/05/2023
+PROD00400,Book Nest,Fashion,414,Book Nest Fashion 414,78.78,95.57,159,Bottle,21/02/2024
+PROD00401,Book Nest,Toys,521,Book Nest Toys 521,28.06,41.41,89,Piece,04/03/2024
+PROD00402,Glow Co,Home & Kitchen,248,Glow Co Home & Kitchen 248,51.15,68.62,94,Pack,19/03/2024
+PROD00403,Home Ease,Toys,579,Home Ease Toys 579,67.28,117.68,155,Piece,03/09/2024
+PROD00404,Glow Co,Toys,235,Glow Co Toys 235,82.12,148.26,143,Piece,01/10/2023
+PROD00405,Fresh Cart,Home & Kitchen,659,Fresh Cart Home & Kitchen 659,94.67,157.28,96,Set,13/03/2022
+PROD00406,Book Nest,Groceries,366,Book Nest Groceries 366,34.65,47.33,99,Set,14/02/2024
+PROD00407,Urban Wear,Sports & Outdoor,251,Urban Wear Sports & Outdoor 251,59.55,89.65,112,Set,28/07/2023
+PROD00408,Urban Wear,Electronics,977,Urban Wear Electronics 977,39.73,48.76,216,Bottle,31/01/2023
+PROD00409,Acme,Beauty & Care,353,Acme Beauty & Care 353,51.55,66.65,189,Piece,17/08/2022
+PROD00410,Nova Tech,Beauty & Care,398,Nova Tech Beauty & Care 398,120.9,157.73,79,Piece,25/06/2023
+PROD00411,Fresh Cart,Groceries,794,Fresh Cart Groceries 794,64.85,75.66,102,Piece,06/04/2022
+PROD00412,Glow Co,Fashion,931,Glow Co Fashion 931,174.43,213.73,146,Piece,19/03/2024
+PROD00413,Book Nest,Home & Kitchen,886,Book Nest Home & Kitchen 886,120.28,140.66,187,Bottle,22/09/2024
+PROD00414,Fresh Cart,Sports & Outdoor,255,Fresh Cart Sports & Outdoor 255,101.43,178.96,225,Piece,26/11/2022
+PROD00415,Glow Co,Books,491,Glow Co Books 491,73.98,95.39,104,Pack,31/12/2022
+PROD00416,Home Ease,Groceries,103,Home Ease Groceries 103,33.3,50.66,17,Piece,06/01/2024
+PROD00417,Urban Wear,Fashion,892,Urban Wear Fashion 892,68.49,81.88,185,Piece,11/02/2023
+PROD00418,Book Nest,Toys,692,Book Nest Toys 692,57.76,108.05,,Bottle,02/05/2022
+PROD00419,Urban Wear,Toys,653,Urban Wear Toys 653,96.31,131.08,139,Piece,16/10/2022
+PROD00420,Sun Peak,Fashion,539,Sun Peak Fashion 539,48.93,63.17,0,Piece,12/12/2023
+PROD00421,Urban Wear,Toys,862,Urban Wear Toys 862,66.5,123.51,82,Piece,11/07/2023
+PROD00422,Urban Wear,Fashion,875,Urban Wear Fashion 875,46.83,61.82,185,Piece,20/09/2024
+PROD00423,Fresh Cart,Home & Kitchen,530,Fresh Cart Home & Kitchen 530,76.95,140.84,151,Set,21/11/2023
+PROD00424,Fresh Cart,Toys,662,Fresh Cart Toys 662,33.48,41.07,78,Piece,10/04/2024
+PROD00425,Urban Wear,Groceries,527,Urban Wear Groceries 527,57.73,69.98,157,Set,26/11/2022
+PROD00426,Kid Joy,Electronics,341,Kid Joy Electronics 341,24.31,36.38,82,Piece,17/03/2023
+PROD00427,Glow Co,Home & Kitchen,423,Glow Co Home & Kitchen 423,142.02,179.04,171,Set,24/03/2023
+PROD00428,Glow Co,Fashion,100,Glow Co Fashion 100,39.02,48.11,163,Piece,14/02/2023
+PROD00429,Nova Tech,Sports & Outdoor,410,Nova Tech Sports & Outdoor 410,118.43,185.43,102,Piece,29/09/2022
+PROD00430,Fit Pro,Fashion,509,Fit Pro Fashion 509,81.75,98.2,255,Set,06/11/2022
+PROD00431,Fresh Cart,Electronics,163,Fresh Cart Electronics 163,28.68,41.03,96,Piece,07/01/2024
+PROD00432,Kid Joy,Electronics,716,Kid Joy Electronics 716,41,59.53,96,Bottle,01/02/2024
+PROD00433,Fit Pro,Sports & Outdoor,444,Fit Pro Sports & Outdoor 444,46.5,67.19,101,Piece,27/07/2024
+PROD00434,Fresh Cart,Beauty & Care,217,Fresh Cart Beauty & Care 217,42.42,69.99,276,Set,14/02/2022
+PROD00435,Sun Peak,Toys,942,Sun Peak Toys 942,76.85,134.32,25,Piece,19/08/2023
+PROD00436,Glow Co,Electronics,568,Glow Co Electronics 568,33.12,48.92,126,Piece,04/04/2022
+PROD00437,Fit Pro,Electronics,632,Fit Pro Electronics 632,125.59,224.6,167,Bottle,26/12/2022
+PROD00438,Sun Peak,Books,289,Sun Peak Books 289,64.49,82.62,135,Piece,23/10/2023
+PROD00439,Nova Tech,Beauty & Care,434,Nova Tech Beauty & Care 434,97.6,130.76,174,Bottle,14/11/2023
+PROD00440,Urban Wear,Home & Kitchen,626,Urban Wear Home & Kitchen 626,150.1,208.62,15,Piece,09/08/2024
+PROD00441,Book Nest,Groceries,294,Book Nest Groceries 294,42.76,62.86,96,Piece,27/10/2023
+PROD00442,Nova Tech,Sports & Outdoor,677,Nova Tech Sports & Outdoor 677,45.71,63.98,147,Pack,05/10/2022
+PROD00443,Book Nest,Groceries,219,Book Nest Groceries 219,123.39,188.24,25,Piece,13/12/2022
+PROD00444,Urban Wear,Sports & Outdoor,673,Urban Wear Sports & Outdoor 673,26.66,31.49,145,Pack,18/01/2024
+PROD00445,Kid Joy,Electronics,570,Kid Joy Electronics 570,52.26,89.03,,Pack,23/01/2023
+PROD00446,Fit Pro,Electronics,236,Fit Pro Electronics 236,48.03,90.74,139,Pack,10/06/2024
+PROD00447,Fresh Cart,Books,495,Fresh Cart Books 495,36.26,65.84,135,Bottle,28/07/2022
+PROD00448,Kid Joy,Toys,910,Kid Joy Toys 910,97.67,181.73,0,Bottle,26/11/2023
+PROD00449,Glow Co,Electronics,747,Glow Co Electronics 747,97.87,170.07,81,Pack,15/08/2022
+PROD00450,Acme,Groceries,768,Acme Groceries 768,125.35,158.03,124,Set,01/08/2023
+PROD00451,Glow Co,Books,219,Glow Co Books 219,21.37,31.09,0,Piece,30/04/2024
+PROD00452,Home Ease,Groceries,174,Home Ease Groceries 174,110.01,186.71,200,Set,10/03/2024
+PROD00453,Kid Joy,Electronics,952,Kid Joy Electronics 952,67.16,90.23,113,Piece,08/08/2022
+PROD00454,Fresh Cart,Home & Kitchen,957,Fresh Cart Home & Kitchen 957,40.33,49.93,28,Pack,05/05/2023
+PROD00455,Urban Wear,Groceries,342,Urban Wear Groceries 342,31.87,59.07,227,Piece,26/08/2024
+PROD00456,Kid Joy,Electronics,256,Kid Joy Electronics 256,92.03,155.07,216,Bottle,20/08/2024
+PROD00457,Book Nest,Fashion,907,Book Nest Fashion 907,56.26,74.49,98,Set,30/01/2022
+PROD00458,Glow Co,Home & Kitchen,147,Glow Co Home & Kitchen 147,67.23,84.7,96,Pack,13/05/2023
+PROD00459,Book Nest,Sports & Outdoor,327,Book Nest Sports & Outdoor 327,50.05,71.62,179,Bottle,26/10/2023
+PROD00460,Fit Pro,Groceries,235,Fit Pro Groceries 235,30.71,56.63,238,Piece,17/04/2024
+PROD00461,Sun Peak,Sports & Outdoor,182,Sun Peak Sports & Outdoor 182,30.28,35.48,97,Piece,06/03/2024
+PROD00462,Home Ease,Groceries,318,Home Ease Groceries 318,90.15,132.49,126,Bottle,02/01/2024
+PROD00463,Nova Tech,Books,382,Nova Tech Books 382,55.53,83,,Piece,12/06/2024
+PROD00464,Fresh Cart,Books,543,Fresh Cart Books 543,65.48,106.63,165,Piece,18/07/2023
+PROD00465,Acme,Fashion,818,Acme Fashion 818,90.04,111.87,164,Pack,27/12/2022
+PROD00466,Nova Tech,Beauty & Care,656,Nova Tech Beauty & Care 656,54.43,71.4,173,Piece,15/10/2023
+PROD00467,Home Ease,Fashion,245,Home Ease Fashion 245,51.44,79.86,82,Piece,19/04/2024
+PROD00468,Kid Joy,Beauty & Care,438,Kid Joy Beauty & Care 438,74.21,139.25,92,Piece,08/10/2023
+PROD00469,Acme,Fashion,485,Acme Fashion 485,53.9,78.58,162,Piece,27/06/2023
+PROD00470,Urban Wear,Electronics,585,Urban Wear Electronics 585,94.8,135.83,100,Set,23/09/2024
+PROD00471,Sun Peak,Home & Kitchen,254,Sun Peak Home & Kitchen 254,46.08,85.84,23,Pack,25/11/2022
+PROD00472,Urban Wear,Home & Kitchen,802,Urban Wear Home & Kitchen 802,88.58,119.32,157,Piece,21/04/2023
+PROD00473,Acme,Beauty & Care,853,Acme Beauty & Care 853,89.88,137.67,49,Pack,05/02/2024
+PROD00474,Kid Joy,Home & Kitchen,771,Kid Joy Home & Kitchen 771,110.99,147.48,,Pack,24/08/2022
+PROD00475,Book Nest,Toys,862,Book Nest Toys 862,44.3,67.05,128,Piece,09/11/2023
+PROD00476,Fit Pro,Electronics,522,Fit Pro Electronics 522,34.47,55.25,82,Piece,23/03/2023
+PROD00477,Nova Tech,Toys,471,Nova Tech Toys 471,58.88,100.62,157,Set,06/11/2022
+PROD00478,Home Ease,Toys,472,Home Ease Toys 472,94.97,147.8,129,Bottle,01/04/2023
+PROD00479,Nova Tech,Fashion,781,Nova Tech Fashion 781,33.42,51.9,155,Piece,06/05/2022
+PROD00480,Acme,Home & Kitchen,663,Acme Home & Kitchen 663,79.4,112.03,197,Pack,09/12/2023
+PROD00481,Acme,Toys,590,Acme Toys 590,76.69,106.81,119,Bottle,08/05/2024
+PROD00482,Fresh Cart,Electronics,410,Fresh Cart Electronics 410,47.77,65.4,80,Set,25/06/2023
+PROD00483,Fit Pro,Fashion,209,Fit Pro Fashion 209,82.09,146.04,184,Set,16/10/2022
+PROD00484,Glow Co,Beauty & Care,939,Glow Co Beauty & Care 939,95.42,154.52,81,Set,08/03/2024
+PROD00485,Book Nest,Electronics,763,Book Nest Electronics 763,60.87,72.21,43,Piece,21/08/2024
+PROD00486,Acme,Home & Kitchen,268,Acme Home & Kitchen 268,55.12,81.85,118,Pack,30/08/2024
+PROD00487,Home Ease,Fashion,933,Home Ease Fashion 933,18.61,24.94,115,Set,24/02/2024
+PROD00488,Fit Pro,Toys,449,Fit Pro Toys 449,61.18,83.9,194,Bottle,13/02/2024
+PROD00489,Nova Tech,Electronics,912,Nova Tech Electronics 912,13.93,19.17,239,Piece,02/04/2024
+PROD00490,Acme,Groceries,644,Acme Groceries 644,93.08,130.65,111,Piece,02/06/2023
+PROD00491,Acme,Beauty & Care,660,Acme Beauty & Care 660,78.43,107.37,80,Piece,10/02/2024
+PROD00492,Acme,Books,417,Acme Books 417,64.42,121.96,86,Piece,06/01/2023
+PROD00493,Fresh Cart,Sports & Outdoor,195,Fresh Cart Sports & Outdoor 195,72.93,97.9,34,Set,09/09/2022
+PROD00494,Nova Tech,Beauty & Care,359,Nova Tech Beauty & Care 359,60.71,70.11,67,Piece,03/09/2023
+PROD00495,Fit Pro,Fashion,529,Fit Pro Fashion 529,93.97,125.05,104,Bottle,26/05/2022
+PROD00496,Home Ease,Beauty & Care,360,Home Ease Beauty & Care 360,62.55,99.06,97,Set,11/07/2023
+PROD00497,Fit Pro,Fashion,736,Fit Pro Fashion 736,37.87,57.09,125,Set,20/01/2022
+PROD00498,Urban Wear,Groceries,234,Urban Wear Groceries 234,35.65,56.24,134,Piece,26/12/2023
+PROD00499,Nova Tech,Books,622,Nova Tech Books 622,79.09,128.39,121,Set,03/12/2023
+PROD00500,Nova Tech,Sports & Outdoor,294,Nova Tech Sports & Outdoor 294,115.17,159.18,28,Bottle,20/06/2024
+PROD00501,Book Nest,Books,899,Book Nest Books 899,45.83,57.6,174,Piece,21/12/2022
+PROD00502,Fresh Cart,Toys,886,Fresh Cart Toys 886,49.19,69.02,51,Bottle,03/04/2024
+PROD00503,Nova Tech,Beauty & Care,348,Nova Tech Beauty & Care 348,58.4,90.42,3,Piece,15/12/2023
+PROD00504,Kid Joy,Toys,813,Kid Joy Toys 813,82.19,95.17,114,Piece,04/01/2023
+PROD00505,Fit Pro,Groceries,982,Fit Pro Groceries 982,75.89,100.11,173,Piece,02/08/2024
+PROD00506,Glow Co,Fashion,950,Glow Co Fashion 950,60.35,99.4,188,Piece,09/09/2023
+PROD00507,Glow Co,Toys,566,Glow Co Toys 566,93.48,163.98,139,Piece,13/08/2022
+PROD00508,Kid Joy,Sports & Outdoor,481,Kid Joy Sports & Outdoor 481,80.45,129.24,91,Set,19/07/2024
+PROD00509,Fit Pro,Electronics,350,Fit Pro Electronics 350,30.26,48.63,153,Set,03/10/2023
+PROD00510,Home Ease,Sports & Outdoor,332,Home Ease Sports & Outdoor 332,45.39,84.34,140,Piece,11/03/2023
+PROD00511,Glow Co,Fashion,758,Glow Co Fashion 758,109.66,199.91,60,Piece,13/07/2022
+PROD00512,Sun Peak,Groceries,448,Sun Peak Groceries 448,66.44,101.6,35,Piece,26/12/2022
+PROD00513,Home Ease,Sports & Outdoor,313,Home Ease Sports & Outdoor 313,71.15,120.67,184,Piece,22/09/2023
+PROD00514,Urban Wear,Fashion,271,Urban Wear Fashion 271,54.44,79.55,181,Pack,23/07/2023
+PROD00515,Sun Peak,Books,881,Sun Peak Books 881,68.24,89.45,188,Set,24/11/2023
+PROD00516,Fit Pro,Beauty & Care,367,Fit Pro Beauty & Care 367,57.27,78.97,104,Piece,09/04/2023
+PROD00517,Urban Wear,Home & Kitchen,354,Urban Wear Home & Kitchen 354,152.47,232.49,46,Piece,19/05/2022
+PROD00518,Fit Pro,Fashion,573,Fit Pro Fashion 573,48.4,83.34,82,Bottle,30/11/2022
+PROD00519,Kid Joy,Groceries,181,Kid Joy Groceries 181,41.37,56.39,102,Bottle,28/10/2022
+PROD00520,Sun Peak,Fashion,510,Sun Peak Fashion 510,27.55,35.11,198,Piece,28/06/2023
+PROD00521,Glow Co,Toys,914,Glow Co Toys 914,46.04,69.67,144,Set,17/01/2023
+PROD00522,Acme,Books,529,Acme Books 529,104.5,162.46,64,Piece,21/11/2023
+PROD00523,Home Ease,Groceries,198,Home Ease Groceries 198,51.13,69.87,135,Piece,19/06/2023
+PROD00524,Urban Wear,Toys,752,Urban Wear Toys 752,31.67,47.24,92,Bottle,08/10/2023
+PROD00525,Sun Peak,Home & Kitchen,236,Sun Peak Home & Kitchen 236,72.06,102.1,137,Piece,26/05/2023
+PROD00526,Sun Peak,Groceries,688,Sun Peak Groceries 688,55.61,73.32,180,Piece,24/07/2024
+PROD00527,Urban Wear,Electronics,769,Urban Wear Electronics 769,85.5,126.8,115,Bottle,27/03/2024
+PROD00528,Acme,Beauty & Care,106,Acme Beauty & Care 106,51.42,79.67,78,Piece,09/11/2023
+PROD00529,Sun Peak,Fashion,666,Sun Peak Fashion 666,63.95,103.04,108,Bottle,24/09/2022
+PROD00530,Sun Peak,Groceries,547,Sun Peak Groceries 547,70.69,106.4,175,Bottle,23/07/2024
+PROD00531,Kid Joy,Home & Kitchen,143,Kid Joy Home & Kitchen 143,87.46,146.79,93,Bottle,11/01/2022
+PROD00532,Home Ease,Electronics,861,Home Ease Electronics 861,66.68,91.38,163,Bottle,24/07/2023
+PROD00533,Urban Wear,Toys,936,Urban Wear Toys 936,116.54,186.7,120,Pack,09/04/2024
+PROD00534,Fit Pro,Books,512,Fit Pro Books 512,25.38,34.75,146,Piece,18/09/2024
+PROD00535,Fresh Cart,Sports & Outdoor,948,Fresh Cart Sports & Outdoor 948,71.75,89.27,18,Piece,28/07/2024
+PROD00536,Glow Co,Beauty & Care,531,Glow Co Beauty & Care 531,64.48,91.52,274,Pack,29/01/2022
+PROD00537,Nova Tech,Fashion,786,Nova Tech Fashion 786,108.05,147.08,118,Bottle,15/10/2023
+PROD00538,Glow Co,Books,730,Glow Co Books 730,119.22,161.46,87,Piece,27/02/2024
+PROD00539,Glow Co,Books,705,Glow Co Books 705,82.83,99.27,188,Piece,19/09/2023
+PROD00540,Urban Wear,Groceries,118,Urban Wear Groceries 118,25.14,45.94,104,Piece,14/07/2023
+PROD00541,Glow Co,Sports & Outdoor,719,Glow Co Sports & Outdoor 719,71.42,121.88,90,Bottle,11/01/2022
+PROD00542,Fresh Cart,Electronics,311,Fresh Cart Electronics 311,48.65,82.33,223,Piece,17/02/2024
+PROD00543,Fit Pro,Electronics,987,Fit Pro Electronics 987,46.01,68.64,187,Piece,23/02/2022
+PROD00544,Nova Tech,Fashion,315,Nova Tech Fashion 315,52.83,61.27,150,Piece,05/05/2022
+PROD00545,Fit Pro,Toys,292,Fit Pro Toys 292,143.17,225.86,193,Pack,26/09/2022
+PROD00546,Glow Co,Books,682,Glow Co Books 682,75.8,110.44,136,Piece,04/08/2023
+PROD00547,Home Ease,Books,812,Home Ease Books 812,24.82,36.87,75,Bottle,10/04/2024
+PROD00548,Acme,Beauty & Care,409,Acme Beauty & Care 409,73,114.69,151,Set,14/05/2024
+PROD00549,Kid Joy,Groceries,355,Kid Joy Groceries 355,35.86,41.38,239,Piece,15/09/2024
+PROD00550,Book Nest,Toys,764,Book Nest Toys 764,71.23,129.99,26,Piece,18/02/2023
+PROD00551,Home Ease,Toys,991,Home Ease Toys 991,70,126.92,115,Bottle,12/08/2024
+PROD00552,Kid Joy,Books,627,Kid Joy Books 627,56.68,85.09,47,Set,22/07/2024
+PROD00553,Glow Co,Books,628,Glow Co Books 628,34.18,54.57,96,Piece,09/07/2023
+PROD00554,Urban Wear,Electronics,664,Urban Wear Electronics 664,70.92,107,92,Pack,19/04/2024
+PROD00555,Acme,Electronics,775,Acme Electronics 775,54.93,95.78,,Bottle,02/07/2024
+PROD00556,Urban Wear,Groceries,581,Urban Wear Groceries 581,73.74,119.27,107,Piece,01/05/2022
+PROD00557,Book Nest,Beauty & Care,494,Book Nest Beauty & Care 494,54.24,100.12,124,Pack,10/05/2022
+PROD00558,Glow Co,Fashion,230,Glow Co Fashion 230,29.81,56.57,134,Pack,27/12/2022
+PROD00559,Fresh Cart,Electronics,973,Fresh Cart Electronics 973,33.01,58.05,231,Piece,14/09/2024
+PROD00560,Book Nest,Toys,644,Book Nest Toys 644,118.19,222.01,93,Piece,27/09/2023
+PROD00561,Glow Co,Fashion,520,Glow Co Fashion 520,79.56,147.77,31,Piece,04/07/2022
+PROD00562,Fit Pro,Books,582,Fit Pro Books 582,71.63,86.08,106,Set,09/11/2023
+PROD00563,Urban Wear,Electronics,449,Urban Wear Electronics 449,96.99,177.29,81,Piece,18/05/2022
+PROD00564,Nova Tech,Groceries,642,Nova Tech Groceries 642,82.65,152.27,56,Piece,02/03/2024
+PROD00565,Urban Wear,Home & Kitchen,695,Urban Wear Home & Kitchen 695,59.36,94.46,47,Set,01/08/2022
+PROD00566,Book Nest,Groceries,826,Book Nest Groceries 826,28.13,37.2,138,Piece,25/07/2022
+PROD00567,Book Nest,Sports & Outdoor,856,Book Nest Sports & Outdoor 856,52.95,77.46,103,Piece,02/01/2024
+PROD00568,Book Nest,Toys,579,Book Nest Toys 579,81.37,134.22,94,Set,03/12/2022
+PROD00569,Acme,Electronics,274,Acme Electronics 274,60.29,102.89,19,Piece,30/06/2024
+PROD00570,Fit Pro,Beauty & Care,172,Fit Pro Beauty & Care 172,37.85,63.9,208,Piece,17/02/2023
+PROD00571,Kid Joy,Books,242,Kid Joy Books 242,52,84.44,40,Piece,03/03/2023
+PROD00572,Sun Peak,Electronics,223,Sun Peak Electronics 223,47.31,88.53,246,Piece,03/09/2024
+PROD00573,Urban Wear,Sports & Outdoor,739,Urban Wear Sports & Outdoor 739,31.24,53.62,243,Set,14/10/2022
+PROD00574,Book Nest,Fashion,775,Book Nest Fashion 775,85.24,118.18,43,Piece,21/08/2024
+PROD00575,Acme,Beauty & Care,993,Acme Beauty & Care 993,117.37,209.13,80,Piece,08/09/2024
+PROD00576,Home Ease,Beauty & Care,486,Home Ease Beauty & Care 486,42.57,66.71,106,Pack,09/05/2023
+PROD00577,Urban Wear,Electronics,837,Urban Wear Electronics 837,40.94,76.97,132,Pack,07/11/2022
+PROD00578,Fresh Cart,Electronics,506,Fresh Cart Electronics 506,85.09,119.26,28,Bottle,25/08/2024
+PROD00579,Home Ease,Fashion,664,Home Ease Fashion 664,32.31,53.63,123,Piece,14/08/2024
+PROD00580,Book Nest,Sports & Outdoor,953,Book Nest Sports & Outdoor 953,41.53,50.19,177,Pack,09/06/2022
+PROD00581,Book Nest,Books,873,Book Nest Books 873,44.16,65.07,175,Bottle,21/04/2022
+PROD00582,Glow Co,Electronics,453,Glow Co Electronics 453,38.15,67.73,100,Bottle,04/04/2024
+PROD00583,Kid Joy,Toys,204,Kid Joy Toys 204,86.72,130.83,61,Pack,21/05/2024
+PROD00584,Home Ease,Electronics,592,Home Ease Electronics 592,40.73,63.2,104,Piece,22/10/2022
+PROD00585,Home Ease,Books,967,Home Ease Books 967,46.94,76.6,107,Piece,16/03/2023
+PROD00586,Sun Peak,Fashion,246,Sun Peak Fashion 246,30.83,43.35,200,Pack,18/02/2024
+PROD00587,Home Ease,Books,786,Home Ease Books 786,73.49,110.46,109,Bottle,13/12/2023
+PROD00588,Book Nest,Toys,658,Book Nest Toys 658,47.7,57.73,124,Bottle,27/04/2023
+PROD00589,Urban Wear,Home & Kitchen,587,Urban Wear Home & Kitchen 587,41.46,51.13,147,Pack,15/09/2022
+PROD00590,Fresh Cart,Electronics,404,Fresh Cart Electronics 404,44.25,71.67,98,Piece,28/10/2022
+PROD00591,Home Ease,Groceries,301,Home Ease Groceries 301,10.99,20.52,109,Set,10/02/2024
+PROD00592,Fresh Cart,Home & Kitchen,683,Fresh Cart Home & Kitchen 683,38.72,56.04,161,Set,26/04/2024
+PROD00593,Nova Tech,Electronics,161,Nova Tech Electronics 161,19.31,36.04,99,Bottle,21/05/2023
+PROD00594,Fresh Cart,Home & Kitchen,730,Fresh Cart Home & Kitchen 730,51.85,88.91,118,Set,29/06/2022
+PROD00595,Kid Joy,Home & Kitchen,304,Kid Joy Home & Kitchen 304,62.72,99.91,137,Set,08/06/2023
+PROD00596,Urban Wear,Toys,872,Urban Wear Toys 872,37.13,66.02,156,Piece,08/07/2024
+PROD00597,Fresh Cart,Fashion,459,Fresh Cart Fashion 459,124.74,231.92,56,Piece,25/11/2022
+PROD00598,Book Nest,Books,318,Book Nest Books 318,48.28,59.05,4,Piece,22/08/2022
+PROD00599,Acme,Home & Kitchen,385,Acme Home & Kitchen 385,90.98,134.99,81,Set,14/02/2023
+PROD00600,Sun Peak,Beauty & Care,827,Sun Peak Beauty & Care 827,56.98,76.66,170,Piece,06/06/2022
+PROD00601,Glow Co,Sports & Outdoor,448,Glow Co Sports & Outdoor 448,38.14,53.43,96,Piece,20/05/2024
+PROD00602,Kid Joy,Books,176,Kid Joy Books 176,54.37,75.81,99,Piece,12/08/2023
+PROD00603,Kid Joy,Home & Kitchen,947,Kid Joy Home & Kitchen 947,102.4,159.14,119,Piece,24/09/2023
+PROD00604,Fresh Cart,Books,557,Fresh Cart Books 557,48.52,55.93,201,Piece,04/05/2023
+PROD00605,Acme,Sports & Outdoor,964,Acme Sports & Outdoor 964,63.21,96.57,0,Set,13/08/2022
+PROD00606,Sun Peak,Books,229,Sun Peak Books 229,52.04,61.41,45,Bottle,15/05/2023
+PROD00607,Kid Joy,Home & Kitchen,741,Kid Joy Home & Kitchen 741,54.94,90.23,125,Set,22/03/2022
+PROD00608,Kid Joy,Toys,607,Kid Joy Toys 607,264.82,438.77,156,Piece,09/05/2023
+PROD00609,Urban Wear,Home & Kitchen,859,Urban Wear Home & Kitchen 859,27.27,48.15,223,Piece,15/01/2024
+PROD00610,Urban Wear,Books,347,Urban Wear Books 347,20.8,38.93,177,Piece,14/06/2022
+PROD00611,Fit Pro,Toys,856,Fit Pro Toys 856,92.68,160.15,34,Piece,29/04/2022
+PROD00612,Nova Tech,Electronics,398,Nova Tech Electronics 398,12.73,19.67,93,Bottle,01/12/2022
+PROD00613,Home Ease,Sports & Outdoor,145,Home Ease Sports & Outdoor 145,36.96,65.52,127,Set,03/01/2022
+PROD00614,Sun Peak,Beauty & Care,626,Sun Peak Beauty & Care 626,37.66,62.6,113,Set,23/01/2023
+PROD00615,Book Nest,Fashion,937,Book Nest Fashion 937,81.04,110.2,128,Bottle,27/01/2022
+PROD00616,Book Nest,Sports & Outdoor,396,Book Nest Sports & Outdoor 396,122.3,192.76,171,Piece,03/06/2022
+PROD00617,Glow Co,Beauty & Care,517,Glow Co Beauty & Care 517,42.52,66.6,236,Piece,05/03/2023
+PROD00618,Home Ease,Toys,553,Home Ease Toys 553,78.74,149.45,122,Piece,16/09/2024
+PROD00619,Acme,Toys,958,Acme Toys 958,83.52,127.73,62,Piece,07/04/2023
+PROD00620,Home Ease,Sports & Outdoor,325,Home Ease Sports & Outdoor 325,40.02,58.62,167,Piece,20/01/2023
+PROD00621,Book Nest,Toys,761,Book Nest Toys 761,144.92,210.86,72,Piece,09/03/2023
+PROD00622,Urban Wear,Toys,783,Urban Wear Toys 783,101.67,146.14,203,Set,12/11/2023
+PROD00623,Home Ease,Electronics,600,Home Ease Electronics 600,49.07,64.95,133,Piece,04/02/2023
+PROD00624,Urban Wear,Electronics,531,Urban Wear Electronics 531,70.41,115.1,75,Piece,08/09/2022
+PROD00625,Fresh Cart,Toys,677,Fresh Cart Toys 677,52.29,71.98,128,Piece,04/12/2022
+PROD00626,Urban Wear,Sports & Outdoor,860,Urban Wear Sports & Outdoor 860,73.06,117.33,69,Piece,30/04/2023
+PROD00627,Fresh Cart,Books,254,Fresh Cart Books 254,56.28,69.78,204,Pack,24/08/2023
+PROD00628,Sun Peak,Fashion,524,Sun Peak Fashion 524,55.19,93.09,136,Piece,28/09/2023
+PROD00629,Sun Peak,Toys,127,Sun Peak Toys 127,45.6,77.53,77,Piece,21/09/2022
+PROD00630,Nova Tech,Groceries,734,Nova Tech Groceries 734,50.37,93.46,69,Pack,10/12/2022
+PROD00631,Book Nest,Electronics,252,Book Nest Electronics 252,30.08,46.96,129,Piece,23/06/2022
+PROD00632,Nova Tech,Books,972,Nova Tech Books 972,41.36,63.58,90,Pack,13/03/2023
+PROD00633,Fresh Cart,Books,626,Fresh Cart Books 626,44.5,68.79,37,Bottle,07/11/2023
+PROD00634,Glow Co,Home & Kitchen,160,Glow Co Home & Kitchen 160,46.83,67.23,116,Piece,19/12/2022
+PROD00635,Kid Joy,Beauty & Care,977,Kid Joy Beauty & Care 977,73.07,137.51,0,Bottle,25/08/2023
+PROD00636,Sun Peak,Home & Kitchen,779,Sun Peak Home & Kitchen 779,46.83,78.24,76,Pack,03/12/2022
+PROD00637,Fresh Cart,Groceries,103,Fresh Cart Groceries 103,44.21,77.48,144,Piece,03/06/2022
+PROD00638,Home Ease,Fashion,525,Home Ease Fashion 525,44.35,72.79,186,Bottle,26/05/2022
+PROD00639,Fit Pro,Books,581,Fit Pro Books 581,105.72,131.32,,Pack,14/03/2022
+PROD00640,Fit Pro,Groceries,316,Fit Pro Groceries 316,95.46,146.74,140,Bottle,18/03/2022
+PROD00641,Fit Pro,Toys,810,Fit Pro Toys 810,103.33,174.38,108,Piece,09/04/2022
+PROD00642,Glow Co,Groceries,715,Glow Co Groceries 715,57.04,106.02,228,Set,20/02/2024
+PROD00643,Acme,Electronics,183,Acme Electronics 183,39.8,58.28,55,Bottle,03/05/2022
+PROD00644,Sun Peak,Electronics,128,Sun Peak Electronics 128,38.02,43.95,180,Set,06/11/2022
+PROD00645,Urban Wear,Sports & Outdoor,721,Urban Wear Sports & Outdoor 721,76.52,96.54,,Piece,28/03/2024
+PROD00646,Home Ease,Toys,289,Home Ease Toys 289,45.12,72.73,0,Piece,21/04/2023
+PROD00647,Fit Pro,Sports & Outdoor,285,Fit Pro Sports & Outdoor 285,43.28,60.39,68,Piece,14/04/2024
+PROD00648,Fresh Cart,Beauty & Care,175,Fresh Cart Beauty & Care 175,52.41,97.69,209,Piece,30/01/2024
+PROD00649,Fresh Cart,Sports & Outdoor,239,Fresh Cart Sports & Outdoor 239,63.78,117.72,185,Piece,15/04/2023
+PROD00650,Urban Wear,Toys,589,Urban Wear Toys 589,30.85,57.8,85,Pack,04/09/2022
+PROD00651,Fit Pro,Home & Kitchen,691,Fit Pro Home & Kitchen 691,192.76,301.87,12,Bottle,18/04/2022
+PROD00652,Acme,Electronics,119,Acme Electronics 119,55.33,75.47,157,Set,12/02/2024
+PROD00653,Nova Tech,Sports & Outdoor,827,Nova Tech Sports & Outdoor 827,85.9,116.57,143,Piece,09/11/2022
+PROD00654,Fit Pro,Electronics,262,Fit Pro Electronics 262,53.31,82.42,85,Pack,05/02/2024
+PROD00655,Fit Pro,Sports & Outdoor,594,Fit Pro Sports & Outdoor 594,76.91,124.79,257,Piece,13/10/2022
+PROD00656,Kid Joy,Groceries,240,Kid Joy Groceries 240,72.1,119.65,183,Pack,06/02/2024
+PROD00657,Sun Peak,Books,458,Sun Peak Books 458,46.49,75.14,0,Piece,14/01/2023
+PROD00658,Glow Co,Beauty & Care,101,Glow Co Beauty & Care 101,41.5,73.55,199,Piece,05/07/2022
+PROD00659,Book Nest,Groceries,527,Book Nest Groceries 527,113.95,156.17,0,Piece,03/09/2023
+PROD00660,Book Nest,Books,522,Book Nest Books 522,51.82,90.89,142,Bottle,24/04/2022
+PROD00661,Book Nest,Beauty & Care,653,Book Nest Beauty & Care 653,29.56,42.36,138,Piece,24/11/2022
+PROD00662,Fit Pro,Sports & Outdoor,658,Fit Pro Sports & Outdoor 658,44.02,73.63,126,Piece,06/06/2022
+PROD00663,Kid Joy,Electronics,853,Kid Joy Electronics 853,147.74,173.22,150,Set,30/05/2024
+PROD00664,Home Ease,Books,761,Home Ease Books 761,64.04,96.84,110,Set,18/01/2022
+PROD00665,Home Ease,Electronics,960,Home Ease Electronics 960,32.94,60.98,125,Bottle,07/02/2024
+PROD00666,Fresh Cart,Home & Kitchen,148,Fresh Cart Home & Kitchen 148,65.54,99.54,46,Bottle,15/01/2024
+PROD00667,Book Nest,Books,370,Book Nest Books 370,114.02,135.51,128,Piece,23/06/2023
+PROD00668,Acme,Beauty & Care,386,Acme Beauty & Care 386,36.5,64.74,121,Piece,24/09/2022
+PROD00669,Fit Pro,Sports & Outdoor,864,Fit Pro Sports & Outdoor 864,55.41,105.16,95,Piece,14/06/2024
+PROD00670,Acme,Beauty & Care,260,Acme Beauty & Care 260,25.65,43.13,71,Pack,11/11/2023
+PROD00671,Kid Joy,Sports & Outdoor,946,Kid Joy Sports & Outdoor 946,35.75,45.08,194,Piece,16/08/2023
+PROD00672,Home Ease,Sports & Outdoor,275,Home Ease Sports & Outdoor 275,58.31,104.31,141,Piece,29/05/2023
+PROD00673,Sun Peak,Fashion,993,Sun Peak Fashion 993,46.34,76.69,278,Set,09/12/2023
+PROD00674,Urban Wear,Sports & Outdoor,328,Urban Wear Sports & Outdoor 328,100.29,131.1,229,Piece,17/06/2023
+PROD00675,Sun Peak,Electronics,811,Sun Peak Electronics 811,28.71,40.24,127,Pack,03/01/2024
+PROD00676,Fresh Cart,Books,483,Fresh Cart Books 483,45.12,60.47,177,Set,07/06/2023
+PROD00677,Acme,Sports & Outdoor,177,Acme Sports & Outdoor 177,16.82,23.64,107,Piece,13/02/2023
+PROD00678,Nova Tech,Sports & Outdoor,206,Nova Tech Sports & Outdoor 206,45.6,53.26,103,Piece,14/04/2022
+PROD00679,Urban Wear,Groceries,562,Urban Wear Groceries 562,41.93,73.26,237,Bottle,23/10/2023
+PROD00680,Nova Tech,Fashion,632,Nova Tech Fashion 632,24.17,37.07,128,Piece,18/05/2024
+PROD00681,Nova Tech,Groceries,498,Nova Tech Groceries 498,58.7,109.79,71,Piece,24/05/2023
+PROD00682,Home Ease,Groceries,895,Home Ease Groceries 895,24.27,32.99,116,Piece,12/03/2024
+PROD00683,Book Nest,Sports & Outdoor,583,Book Nest Sports & Outdoor 583,135.12,236.79,142,Piece,30/05/2022
+PROD00684,Home Ease,Fashion,315,Home Ease Fashion 315,22.27,30.34,137,Piece,03/07/2024
+PROD00685,Fit Pro,Home & Kitchen,945,Fit Pro Home & Kitchen 945,49.08,91.84,94,Piece,17/09/2024
+PROD00686,Fresh Cart,Books,148,Fresh Cart Books 148,81.66,130.53,97,Bottle,14/12/2022
+PROD00687,Kid Joy,Groceries,970,Kid Joy Groceries 970,97.69,121.97,39,Bottle,09/02/2023
+PROD00688,Urban Wear,Electronics,529,Urban Wear Electronics 529,99.24,184.62,1,Set,22/11/2022
+PROD00689,Fresh Cart,Sports & Outdoor,375,Fresh Cart Sports & Outdoor 375,50.53,62.63,115,Piece,21/08/2023
+PROD00690,Kid Joy,Home & Kitchen,456,Kid Joy Home & Kitchen 456,26.8,46.91,57,Piece,09/10/2022
+PROD00691,Fit Pro,Fashion,525,Fit Pro Fashion 525,30.7,43.55,86,Piece,16/05/2024
+PROD00692,Home Ease,Groceries,795,Home Ease Groceries 795,64,121.53,132,Piece,07/09/2024
+PROD00693,Fresh Cart,Books,188,Fresh Cart Books 188,31.88,40.16,197,Piece,27/02/2023
+PROD00694,Fit Pro,Toys,219,Fit Pro Toys 219,61.44,70.81,116,Pack,30/09/2023
+PROD00695,Acme,Fashion,767,Acme Fashion 767,117.38,217.27,223,Piece,11/03/2023
+PROD00696,Sun Peak,Groceries,734,Sun Peak Groceries 734,86.42,129.99,171,Piece,12/01/2024
+PROD00697,Urban Wear,Fashion,229,Urban Wear Fashion 229,129.54,241.85,62,Piece,02/11/2022
+PROD00698,Book Nest,Home & Kitchen,378,Book Nest Home & Kitchen 378,97.87,122.33,89,Piece,24/01/2023
+PROD00699,Fresh Cart,Books,335,Fresh Cart Books 335,98.57,144.53,219,Piece,06/11/2023
+PROD00700,Sun Peak,Sports & Outdoor,625,Sun Peak Sports & Outdoor 625,35.68,64.13,105,Piece,08/04/2022
+PROD00701,Fit Pro,Home & Kitchen,132,Fit Pro Home & Kitchen 132,55.5,84.19,101,Piece,14/09/2022
+PROD00702,Urban Wear,Toys,354,Urban Wear Toys 354,37.78,46.31,60,Piece,24/01/2023
+PROD00703,Fresh Cart,Electronics,674,Fresh Cart Electronics 674,68.27,104.97,88,Set,04/10/2022
+PROD00704,Nova Tech,Beauty & Care,728,Nova Tech Beauty & Care 728,124.36,170.53,191,Bottle,03/02/2023
+PROD00705,Kid Joy,Electronics,732,Kid Joy Electronics 732,30.67,49.52,112,Bottle,07/10/2023
+PROD00706,Home Ease,Beauty & Care,844,Home Ease Beauty & Care 844,71.41,105.69,106,Pack,10/08/2024
+PROD00707,Fresh Cart,Electronics,460,Fresh Cart Electronics 460,33.34,60.42,98,Piece,20/05/2022
+PROD00708,Book Nest,Beauty & Care,585,Book Nest Beauty & Care 585,50.62,94.5,213,Piece,18/01/2023
+PROD00709,Home Ease,Electronics,576,Home Ease Electronics 576,40.5,71.36,61,Bottle,22/01/2022
+PROD00710,Urban Wear,Books,517,Urban Wear Books 517,44.72,75.86,116,Pack,19/01/2023
+PROD00711,Home Ease,Books,373,Home Ease Books 373,34.85,59.36,253,Pack,02/10/2022
+PROD00712,Fit Pro,Toys,178,Fit Pro Toys 178,32.42,53.62,126,Pack,30/09/2023
+PROD00713,Fit Pro,Fashion,357,Fit Pro Fashion 357,59.62,73.57,234,Set,02/03/2024
+PROD00714,Book Nest,Beauty & Care,683,Book Nest Beauty & Care 683,86.85,151.98,89,Pack,25/09/2024
+PROD00715,Urban Wear,Groceries,363,Urban Wear Groceries 363,84.8,105.59,68,Piece,09/05/2024
+PROD00716,Book Nest,Home & Kitchen,115,Book Nest Home & Kitchen 115,120.18,142.11,219,Bottle,11/06/2022
+PROD00717,Nova Tech,Beauty & Care,156,Nova Tech Beauty & Care 156,21.72,29.04,95,Piece,06/04/2022
+PROD00718,Glow Co,Books,544,Glow Co Books 544,42.64,54.06,79,Set,19/01/2022
+PROD00719,Glow Co,Home & Kitchen,415,Glow Co Home & Kitchen 415,43.36,77.17,114,Bottle,12/05/2024
+PROD00720,Book Nest,Toys,264,Book Nest Toys 264,142.51,263.09,58,Bottle,09/05/2022
+PROD00721,Urban Wear,Home & Kitchen,701,Urban Wear Home & Kitchen 701,60.28,107.98,146,Set,20/01/2022
+PROD00722,Book Nest,Home & Kitchen,237,Book Nest Home & Kitchen 237,38.44,55.17,158,Piece,30/12/2022
+PROD00723,Kid Joy,Beauty & Care,258,Kid Joy Beauty & Care 258,50.69,59.3,167,Piece,13/09/2024
+PROD00724,Home Ease,Groceries,593,Home Ease Groceries 593,58.73,74.89,207,Pack,13/07/2023
+PROD00725,Glow Co,Beauty & Care,761,Glow Co Beauty & Care 761,61.43,88.25,65,Piece,31/05/2022
+PROD00726,Home Ease,Fashion,863,Home Ease Fashion 863,21.74,27.27,192,Pack,21/06/2023
+PROD00727,Fresh Cart,Home & Kitchen,101,Fresh Cart Home & Kitchen 101,71.11,94.01,186,Piece,07/12/2022
+PROD00728,Urban Wear,Fashion,742,Urban Wear Fashion 742,119.15,139,106,Piece,21/11/2023
+PROD00729,Fresh Cart,Beauty & Care,516,Fresh Cart Beauty & Care 516,76.39,128.83,214,Pack,10/09/2024
+PROD00730,Urban Wear,Beauty & Care,979,Urban Wear Beauty & Care 979,21.51,29.32,52,Piece,08/10/2022
+PROD00731,Home Ease,Books,515,Home Ease Books 515,38.21,46.59,162,Piece,24/04/2022
+PROD00732,Kid Joy,Groceries,479,Kid Joy Groceries 479,31.84,36.93,180,Set,04/05/2023
+PROD00733,Kid Joy,Beauty & Care,857,Kid Joy Beauty & Care 857,10,18.43,127,Bottle,18/09/2022
+PROD00734,Sun Peak,Fashion,273,Sun Peak Fashion 273,66.09,87.48,68,Bottle,26/04/2022
+PROD00735,Acme,Fashion,348,Acme Fashion 348,55.96,80.46,95,Bottle,02/04/2024
+PROD00736,Sun Peak,Sports & Outdoor,701,Sun Peak Sports & Outdoor 701,90.99,164.99,63,Set,20/09/2023
+PROD00737,Kid Joy,Beauty & Care,941,Kid Joy Beauty & Care 941,67.98,81.45,119,Bottle,20/08/2022
+PROD00738,Glow Co,Home & Kitchen,734,Glow Co Home & Kitchen 734,33.38,45.11,71,Bottle,21/03/2023
+PROD00739,Kid Joy,Groceries,228,Kid Joy Groceries 228,43.59,73.64,149,Piece,02/10/2023
+PROD00740,Nova Tech,Books,861,Nova Tech Books 861,25.58,31.52,16,Piece,22/03/2022
+PROD00741,Book Nest,Electronics,212,Book Nest Electronics 212,117.28,162.9,151,Piece,12/09/2024
+PROD00742,Glow Co,Electronics,370,Glow Co Electronics 370,42.26,77.36,134,Set,17/07/2022
+PROD00743,Glow Co,Toys,513,Glow Co Toys 513,64.56,82.41,188,Pack,21/02/2022
+PROD00744,Sun Peak,Beauty & Care,386,Sun Peak Beauty & Care 386,66.04,115.32,63,Set,13/02/2022
+PROD00745,Fit Pro,Groceries,144,Fit Pro Groceries 144,85.16,126.15,89,Set,22/03/2024
+PROD00746,Sun Peak,Fashion,200,Sun Peak Fashion 200,29.74,47.18,132,Set,20/06/2022
+PROD00747,Kid Joy,Groceries,182,Kid Joy Groceries 182,46.27,68.47,29,Bottle,22/02/2023
+PROD00748,Kid Joy,Sports & Outdoor,975,Kid Joy Sports & Outdoor 975,74.33,125.74,218,Pack,06/03/2023
+PROD00749,Urban Wear,Home & Kitchen,592,Urban Wear Home & Kitchen 592,74.45,105.31,178,Piece,25/12/2023
+PROD00750,Acme,Fashion,367,Acme Fashion 367,57.62,69.3,165,Pack,12/10/2023
+PROD00751,Home Ease,Fashion,990,Home Ease Fashion 990,40.37,63.47,157,Piece,05/01/2022
+PROD00752,Sun Peak,Electronics,775,Sun Peak Electronics 775,96.62,120.62,227,Pack,01/09/2024
+PROD00753,Acme,Home & Kitchen,542,Acme Home & Kitchen 542,133.26,175.23,132,Piece,04/02/2024
+PROD00754,Urban Wear,Books,990,Urban Wear Books 990,104.31,187.58,27,Piece,04/07/2023
+PROD00755,Nova Tech,Toys,935,Nova Tech Toys 935,30.66,49.01,147,Piece,17/09/2024
+PROD00756,Nova Tech,Books,436,Nova Tech Books 436,36.81,68.23,96,Pack,14/03/2022
+PROD00757,Nova Tech,Toys,605,Nova Tech Toys 605,50.81,87.14,245,Bottle,12/01/2023
+PROD00758,Glow Co,Beauty & Care,566,Glow Co Beauty & Care 566,149.16,202.98,52,Piece,27/11/2023
+PROD00759,Nova Tech,Beauty & Care,670,Nova Tech Beauty & Care 670,129.79,164.18,,Piece,14/06/2023
+PROD00760,Fresh Cart,Electronics,395,Fresh Cart Electronics 395,44.29,71.09,132,Piece,19/09/2022
+PROD00761,Fit Pro,Beauty & Care,682,Fit Pro Beauty & Care 682,53.52,74.63,93,Bottle,25/10/2023
+PROD00762,Fresh Cart,Toys,647,Fresh Cart Toys 647,20.47,38.14,81,Bottle,27/10/2022
+PROD00763,Fresh Cart,Beauty & Care,669,Fresh Cart Beauty & Care 669,40.11,62.99,168,Set,04/04/2024
+PROD00764,Sun Peak,Beauty & Care,628,Sun Peak Beauty & Care 628,36.47,63.29,117,Piece,20/01/2024
+PROD00765,Home Ease,Home & Kitchen,455,Home Ease Home & Kitchen 455,62.91,115.82,88,Bottle,11/11/2022
+PROD00766,Book Nest,Electronics,705,Book Nest Electronics 705,112.64,201.19,23,Piece,12/10/2022
+PROD00767,Fresh Cart,Beauty & Care,268,Fresh Cart Beauty & Care 268,40.5,65.37,113,Piece,19/06/2022
+PROD00768,Fresh Cart,Home & Kitchen,122,Fresh Cart Home & Kitchen 122,53.53,92.64,97,Piece,11/03/2024
+PROD00769,Home Ease,Electronics,838,Home Ease Electronics 838,12.01,20.68,255,Set,09/03/2023
+PROD00770,Urban Wear,Sports & Outdoor,750,Urban Wear Sports & Outdoor 750,32.62,43.06,156,Set,29/03/2024
+PROD00771,Book Nest,Books,447,Book Nest Books 447,97.42,150.18,69,Piece,12/01/2023
+PROD00772,Sun Peak,Beauty & Care,414,Sun Peak Beauty & Care 414,21.45,36.02,137,Piece,09/07/2023
+PROD00773,Nova Tech,Groceries,233,Nova Tech Groceries 233,26.14,38.04,46,Piece,09/02/2024
+PROD00774,Nova Tech,Electronics,253,Nova Tech Electronics 253,29.92,49.26,73,Set,13/08/2024
+PROD00775,Acme,Fashion,471,Acme Fashion 471,53.66,74.15,109,Pack,29/03/2023
+PROD00776,Nova Tech,Electronics,359,Nova Tech Electronics 359,59.08,96.86,167,Pack,08/12/2022
+PROD00777,Kid Joy,Groceries,765,Kid Joy Groceries 765,91.51,166.09,143,Piece,23/06/2024
+PROD00778,Nova Tech,Books,904,Nova Tech Books 904,51.49,87.49,2,Piece,14/05/2024
+PROD00779,Kid Joy,Home & Kitchen,780,Kid Joy Home & Kitchen 780,58.91,78.82,230,Set,25/09/2023
+PROD00780,Kid Joy,Beauty & Care,583,Kid Joy Beauty & Care 583,145.83,220.77,128,Piece,11/09/2024
+PROD00781,Glow Co,Home & Kitchen,163,Glow Co Home & Kitchen 163,41.99,71.06,51,Pack,30/03/2023
+PROD00782,Glow Co,Electronics,922,Glow Co Electronics 922,29.42,54.28,47,Pack,06/12/2023
+PROD00783,Acme,Books,505,Acme Books 505,45.74,76.86,61,Set,17/09/2023
+PROD00784,Fit Pro,Groceries,390,Fit Pro Groceries 390,75.55,117.74,106,Set,01/10/2023
+PROD00785,Book Nest,Sports & Outdoor,127,Book Nest Sports & Outdoor 127,24.31,34.75,235,Pack,09/04/2023
+PROD00786,Book Nest,Sports & Outdoor,766,Book Nest Sports & Outdoor 766,61.12,115.09,86,Piece,10/07/2023
+PROD00787,Urban Wear,Books,268,Urban Wear Books 268,29.8,42.18,71,Set,23/07/2023
+PROD00788,Urban Wear,Beauty & Care,640,Urban Wear Beauty & Care 640,34.23,55.64,42,Piece,17/08/2024
+PROD00789,Nova Tech,Groceries,153,Nova Tech Groceries 153,48.3,69.5,26,Piece,05/08/2022
+PROD00790,Home Ease,Electronics,579,Home Ease Electronics 579,116.25,208.61,154,Pack,04/06/2024
+PROD00791,Book Nest,Electronics,214,Book Nest Electronics 214,25.44,35.99,62,Set,24/03/2023
+PROD00792,Acme,Home & Kitchen,200,Acme Home & Kitchen 200,54.32,95.17,169,Pack,26/09/2024
+PROD00793,Fresh Cart,Beauty & Care,242,Fresh Cart Beauty & Care 242,24.24,40.13,114,Piece,22/11/2022
+PROD00794,Urban Wear,Beauty & Care,461,Urban Wear Beauty & Care 461,46.56,61.54,186,Set,20/02/2023
+PROD00795,Nova Tech,Home & Kitchen,601,Nova Tech Home & Kitchen 601,26.62,34.92,173,Piece,13/12/2022
+PROD00796,Kid Joy,Electronics,294,Kid Joy Electronics 294,83.8,132.12,111,Bottle,15/08/2023
+PROD00797,Sun Peak,Books,182,Sun Peak Books 182,53.67,62.54,163,Bottle,05/01/2023
+PROD00798,Nova Tech,Groceries,889,Nova Tech Groceries 889,63.54,112.46,155,Set,09/08/2022
+PROD00799,Acme,Fashion,991,Acme Fashion 991,25.27,34.96,169,Bottle,19/06/2024
+PROD00800,Nova Tech,Sports & Outdoor,419,Nova Tech Sports & Outdoor 419,70.14,116.39,245,Piece,03/07/2022
